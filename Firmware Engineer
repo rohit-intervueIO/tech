@@ -3290,5 +3290,514 @@ Education: Bachelor's or Master's degree in Computer Science, Electrical Enginee
 _______________
 
 
+61.
+Full job description
+We are seeking an experienced Firmware Architect to lead the design and development of embedded software and firmware for our MCU/MPU based products. In this role, you will define the overall system and firmware architecture for memory and performance constrained MCUs, ensuring efficient, secure, and scalable firmware across diverse embedded platforms. You will leverage your deep expertise in Embedded C/C++, RTOS integration, and embedded GUI frameworks such as TouchGFX, Qt for MCUs, or LVGL to deliver high-quality, optimized firmware solutions. This position requires strong technical leadership, architectural vision, and hands-on involvement in design, mentoring, and process improvement all within an Agile, DevOps-oriented environment.We are seeking an experienced Firmware Architect to lead the design and development of embedded software and firmware for our MCU/MPU based products. In this role, you will define the overall system and firmware architecture for memory and performance constrained MCUs, ensuring efficient, secure, and scalable firmware across diverse embedded platforms. You will leverage your deep expertise in Embedded C/C++, RTOS integration, and embedded GUI frameworks such as TouchGFX, Qt for MCUs, or LVGL to deliver high-quality, optimized firmware solutions. This position requires strong technical leadership, architectural vision, and hands-on involvement in design, mentoring, and process improvement all within an Agile, DevOps-oriented environment.
+
+Roles & Responsibilities
+
+Key Responsibilities:
+
+System Architecture & Design
+
+Define and own the overall firmware architecture for microcontroller and microprocessor-based systems with strict CPU, memory constraints.
+Establish modular and reusable firmware frameworks, including hardware abstraction, communication stacks, and middleware layers.
+Lead architectural evaluations for new MCU/RTOS platforms, ensuring alignment with product scalability and lifecycle goals.
+Oversee system-level trade-offs involving performance, cost, memory, and power to ensure optimal architecture decisions.
+HMI / GUI Architecture
+
+Define architectural patterns and design guidelines for systems on embedded devices.
+Evaluate and standardize UI frameworks across product lines for performance, code reuse, and maintainability.
+Govern UX/UI integration strategy for efficient memory management and rendering pipelines.
+Connectivity & Protocol Integration
+
+Architect system-level integration of industrial communication protocols (EtherNet/IP, Modbus, BACnet, EtherCAT, PROFINET, OPC UA).
+Define architectural interfaces for network communication, diagnostics, and interoperability between distributed embedded nodes.
+Ensure compliance with timing, determinism, and safety requirements in connected architectures.
+RTOS & Real-Time Systems
+
+Define the RTOS abstraction layer and scheduling architecture to meet real-time performance goals.
+Evaluate, benchmark, and recommend RTOS platforms (FreeRTOS, ThreadX/Azure RTOS, Zephyr) based on product requirements.
+Oversee configuration strategies for multi-threading, synchronization, and real-time task management.
+Software Quality, Compliance & DevOps
+
+Establish and enforce firmware development standards including coding guidelines (MISRA C/C++), documentation practices, and design traceability.
+Define policies for version control (Git), CI/CD integration, and automated testing workflows to ensure consistent code quality and delivery velocity.
+Govern use of unit testing frameworks, static analysis tools, and TDD methodologies across teams.
+Ensure compliance with relevant functional safety and cybersecurity standards (IEC 61508, ISO 26262, IEC 62443).
+Technical Leadership & Mentorship
+
+Provide architectural guidance and review for ongoing firmware projects.
+Mentor and coach senior and mid-level firmware engineers in design patterns, architectural principles, and system optimization.
+Collaborate with product management, hardware, and systems teams to align firmware strategy with business objectives and product vision.
+Author and maintain architecture documentation, reference designs, and firmware design blueprints.
+Innovation & Technology Strategy
+
+Evaluate emerging technologies, frameworks, and tool chains for integration into the firmware ecosystem.
+Define long-term firmware platform roadmaps, driving innovation and technology evolution across product generations.
+Promote adoption of Agile and DevOps practices tailored for embedded firmware development environments.
+Mandatory Skills
+
+Strong expertise in Embedded C++ with focus on memory-aware, low-latency, and deterministic systems. • Experience in HMI development for FreeRTOS or bare-metal systems. • Deep understanding of RTOS concepts, task management, inter-task communication, and timing constraints. • Proven ability to design and develop abstraction layers and hardware interface modules. • Proficiency with data structures and algorithms optimized for limited memory environments. • Strong knowledge of memory management, stack/heap
+Desirable Skills
+
+Experience with Embedded Linux, QNX, or hybrid MCU/MPU platforms. • Understanding of hardware/software co-design and board bring-up workflows. • Exposure to virtual prototyping, HIL simulation, or model-based system validation. • Knowledge of Rust, Python, or other modern languages for embedded tooling. • Certification or training in Systems Architecture or Safety-Critical Development Standards. • Experience defining or managing platform migration strategies across hardware generations. • Exposure to Blue
+Skills to be evaluated on
+
+RTOSTouchGFXLVGLQTEmbedded-UI
+
+Years Of Experience: 10 to 14 Years
+
+Job Types: Full-time, Permanent
+
+Pay: ₹3,500,000.00 - ₹4,500,000.00 per year
+
+Work Location: In person
+
+--------------
 
 
+62.
+You will be working on sophisticated, industrial, real time operating systems involving real time data acquisition and post processing of data for analysis and reports. This team of engineers develops innovative monitoring systems used for Grid monitoring, Gas Insulated Switchgear and Generation in electrical sub stations and power plants.
+
+Here’s where you’ll demonstrate your proficiencies:
+Embedded systems, firmware development with focus on Linux and real time embedded systems.
+
+Developing advance firmware solutions for critical substation monitoring and diagnosis requirements.
+
+Supports development team and provides needed pre-qualification and verification testing. Ensure compliance to all regulatory needs for the product and business
+
+Support product transition to mass manufacturing
+
+Supports sales and support team post release to timely meet customer needs.
+
+Follow software development and validation processes and continuously improve them.
+
+Use Scrum Agile Methodology for Firmware development.
+
+Qualifications
+
+The successful candidate will be able to demonstrate the following skills and experience:
+
+Bachelors or Masters in Electrical / Electronics Engineering or Computer Science or equivalent experience
+Proven expertise in the design and support of embedded systems architecture in a real time,
+RTOS. environment (High Speed Serial IO, Embedded Processor)
+
+Experience with DSP programming. Familiar with use of Matlab/ Python for prototyping / algorithm development
+Expertise in Embedded C/C++. Code development in a real time, multi-threaded environment.
+Hands on experience in programming different peripheral interfaces like UART, I2C, SPI, External Memory, ADCs etc.
+Strong analytic and problem-solving skills for root cause determination and fixing issues.
+Preferred Skills:
+Knowledge of unit test frameworks for Linux
+
+Programming experience with device drivers.
+
+Experience in fault location, fault recording and/or power quality.
+
+Knowledge of Cyber security implementation
+
+Ralliant Corporation Overview
+Ralliant, originally part of Fortive, now stands as a bold, independent public company driving innovation at the forefront of precision technology. With a global footprint and a legacy of excellence, we empower engineers to bring next-generation breakthroughs to life — faster, smarter, and more reliably. Our high-performance instruments, sensors, and subsystems fuel mission-critical advancements across industries, enabling real-world impact where it matters most. At Ralliant we’re building the future, together with those driven to push boundaries, solve complex problems, and leave a lasting mark on the world.
+About Qualitrol
+QUALITROL manufactures monitoring and protection devices for high value electrical assets and OEM manufacturing companies. Established in 1945, QUALITROL produces thousands of different types of products on demand and customized to meet our individual customers’ needs. We are the largest and most trusted global leader for partial discharge monitoring, asset protection equipment and information products across power generation, transmission, and distribution. At Qualitrol, we are redefining condition-based monitoring.
+We Are an Equal Opportunity Employer. Ralliant Corporation and all Ralliant Companies are proud to be equal opportunity employers. We value and encourage diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Ralliant and all Ralliant Companies are also committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for any part of the employment application process, please contact us at applyassistance@Ralliant.com. QUALITROL manufactures monitoring and protection devices for high value electrical assets and OEM manufacturing companies. Established in 1945, QUALITROL produces thousands of different types of products on demand and customized to meet our individual customers’ needs. We are the largest and most trusted global leader for partial discharge monitoring, asset protection equipment and information products across power generation, transmission, and distribution. At Qualitrol, we are redefining condition-based monitoring.
+We Are an Equal Opportunity Employer. Ralliant Corporation and all Ralliant Companies are proud to be equal opportunity employers. We value and encourage diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Ralliant and all Ralliant Companies are also committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for any part of the employment application process, please contact us at applyassistance@Ralliant.com. None
+
+
+--------
+63.
+
+Job Description
+
+We are seeking a Sr. Firmware Developer to lead firmware design and development for our next-generation automotive IoT device, ITUS. This role involves building robust, secure, and high-performance embedded systems that collect, process, and transmit vehicle data in real time.
+
+You’ll work closely with our hardware, backend, and data teams to create intelligent edge devices that power vehicle analytics, diagnostics, and connected mobility applications
+
+The ideal candidate will have a strong technical background across full-stack web development, automation platforms, and AI/ML integration workflows. You will guide a diverse team of developers with different technical skill sets, ensure smooth collaboration across teams, manage deployments, act as the key technical point of contact for the sales and marketing team, and handle customer discussions.
+
+Key Responsibilities
+
+Architect, design, and implement firmware for Datakrew’s automotive IoT edge devices using ARM-based microcontrollers (e.g., STM32, ESP32).
+Develop and optimize CAN / CAN FD, OBD-II, and UDS communication stacks for vehicle data collection.
+Implement real-time data acquisition, logging, and edge analytics for on-vehicle insights.
+Work on wireless connectivity (4G/LTE, WiFi, BLE, GNSS) and secure cloud data transmission.
+Design and maintain bootloaders, OTA (Over-the-Air) update mechanisms, and secure firmware upgrade systems.
+Develop firmware-level database integration for logging and synchronizing data with backend systems (e.g., embedded database, flash-based logs, or direct API sync with cloud databases).
+Implement data buffering, compression, and fail-safe log storage to handle offline or low-connectivity scenarios.
+Collaborate with backend engineers to define data schemas, synchronization logic, and retention strategies.
+Work with hardware teams for board bring-up, validation, and peripheral driver development (UART, SPI, I2C, SDIO).
+Ensure compliance with automotive communication and safety standards.
+Lead debugging, validation, and testing efforts to ensure firmware reliability and field performance.
+Mentor junior engineers and maintain comprehensive technical documentation.
+
+Qualifications
+
+Requirements:
+
+Bachelor’s or Master’s degree in Electronics, Electrical, or Computer Engineering.
+5+ years of experience in embedded firmware development in C/C++.
+Strong understanding of automotive communication protocols – CAN, OBD-II, UDS, ISO-TP.
+Hands-on experience with RTOS (FreeRTOS, Zephyr, etc.) and real-time system design.
+Familiarity with cellular, BLE, and GNSS/GPS module integration.
+Experience with local database systems (e.g., SQLite, lightweight file-based storage) and integration with cloud databases (PostgreSQL, AWS DynamoDB, or TimescaleDB) for telemetry and logs.
+Familiarity with IoT data ingestion and APIs (MQTT, HTTPS, REST) for remote log upload.
+Strong debugging and testing experience using oscilloscopes, logic analyzers, and JTAG tools.
+Experience with firmware update systems (bootloaders, OTA, DFU) and secure data handling.
+Proficient with Git, CI/CD pipelines, and structured firmware release processes.
+Good understanding of low-power design, flash memory management, and persistent data logging.
+Preferred Qualifications:
+
+Experience with diagnostic protocols (ISO 15765-3, ISO 14229) and vehicle ECU communication.
+Exposure to automotive-grade hardware design and environmental validation.
+Knowledge of functional safety (ISO 26262) or secure communication standards.
+Experience developing custom test automation scripts in Python or C#.
+
+
+--------------
+
+
+64.
+
+Full job description
+Firmware Engineer
+Date: 11 Feb 2026
+Location: Mumbai
+Company: LTTS
+Embedded C programming
+Low-level Hardware interaction (ADC, DMA, IIC, SPI, UART, CAN)
+Embedded system design and architecture (General purpose, ARM Cortex)
+RTOS and Bare metal Programming
+Linux commands knowledge
+Linux Kernel and Driver Development
+Linux Application Development
+File system Management
+Cross compilation and Build system
+Debugging and testing
+Code optimization and knowledge of coding guidelines
+Version control and configuration management tools (GIT, JIRA, Bitbucket, Confluence)
+
+
+---------
+
+65.
+Full job description
+In This Role, Your Responsibilities Will Be:
+Firmware development as part of Scrum team, Participate in all Scrum Events
+Contribute for all development activities such as requirement analysis, design, work product reviews, unit testing and testing to achieve sprint goals.
+Represent team as and when needed in global meetings
+Adhere to local and international Emerson principles, practices, and procedures.
+
+Who You Are:
+Emerson develops Flow computers and RTUs which are used in Oil & Gas market. They are used for measurement & control purpose.
+
+Primary role of developer is to develop various firmware modules which run as part of real time environment. Individual works as part of local/global Scrum team.
+
+
+For This Role, You Will Need:
+Innovative, Capable to Deep Dive & Think Customer
+Be action oriented and full of energy for the things they see as challenging
+Have the functional, technical knowledge and skills to do the job at a high level of accomplishment
+Use rigorous logic and methods to solve difficult problems with effective solutions; can see hidden problems; looks beyond the obvious and doesn’t stop at first answers
+Take ownership of own activity and provide work output in timely manner without compromise on quality
+
+Preferred Qualifications That Set You Apart:
+Bachelors in Electronics/Computers/Electricals/Instrumentation
+Skilled in software development, preferably within an industrial computing environment
+Proficient in Embedded Systems, C++, RTOS, OOAD, UML
+Good SW design skills using real time concept and data structures
+Knowledge of industry communication protocols, security, PLC, RTU, Transmitters, Sensors etc. will be advantage.
+
+Our Culture & Commitment to You:
+At Emerson, we prioritize a workplace where every employee is valued, respected, and empowered to grow. We foster an environment that encourages innovation, collaboration, and diverse perspectives—because we know that great ideas come from great teams. Our commitment to ongoing career development and growing an inclusive culture ensures you have the support to thrive. Whether through mentorship, training, or leadership opportunities, we invest in your success so you can make a lasting impact. We believe diverse teams, working together are key to driving growth and delivering business results.
+
+We recognize the importance of employee wellbeing. We prioritize providing competitive benefits plans, a variety of medical insurance plans, Employee Assistance Program, employee resource groups, recognition, and much more. Our culture offers flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+--------------
+
+66.
+Full job description
+We are seeking a Senior Engineer who will work on Instrumentation development team responsible for a highly efficient product. This role requires a deep understanding of C Language, Embedded systems, and software development methodologies. The candidate will also be expected to use unambiguous tools such as UML, Visio etc. for various documentation purpose. The candidate’s development tasks will span embedded code, verification test code, execution of test code, and various supporting PC applications. The candidate is also expected to guide and mentor junior developers with technical queries.
+
+In This Role, Your Responsibilities Will:
+
+Collaborate with marketing and manufacturing in helping define requirements.
+Analyze, design, and implement solutions to requirements.
+Propose improvements to identified software inefficiencies and deficiencies.
+Use scopes, meters, power sources etc. as necessary to complete the task.
+Plan and architect a testing environment using existing tool chain for a given product.
+Participate in sprint planning sessions.
+Identifies test cases necessary for verifying firmware requirements.
+Implements or manages the implementation of test cases.
+Manage code changes using version control tools.
+Participate in code reviews.
+Implement or manage the execution of test cases.
+Log defects in project defined defect tracking tool.
+Read and follow relevant project engineering practice and engineering standards documents.
+Who You Are:
+
+You anticipate customer needs and provide services that are beyond customer expectations. You quickly and decisively take action in fast-changing, unpredictable situations and assume responsibility for the outcomes of others.
+
+For This Role, You Will Need:
+
+Knowledge and experience with 8-, 16-, and 32-bit Micro-controllers
+Knowledge and experience with ARM architecture.
+Knowledge and experience with RTOS
+Knowledge and experience with agile development methodologies
+Knowledge and experience with distributed version control such as (GIT, Mercurial)
+Knowledge and experience with static code analysis tools such as PC-Lint.
+Knowledge of Ethernet Stack.
+Expert programming skills with C / C++ compilers and linkers
+Knowledge or ability to learn requirements management database tools such as (Jama)
+Familiarity with command line application interfaces and operation.
+Ability to participate in a team environment.
+Must have a commitment to quality.
+A mechanical background or mechanical aptitude is helpful.
+Methodical problem-solving skills are needed.
+Be able comprehend and adapt solutions to existing code structures.
+Mentor and Guide junior firmware developers
+
+--------
+
+67.
+ull job description
+Role Summary:
+
+In this role you will report into the Supervisor, Engineering. You will be part of an exciting new team and be involved in application design, developing real-time embedded firmware for microcontrollers and designing to meet the requirements of functional safety standards.
+
+Responsibilities:
+
+Low-power electronics firmware development.
+Applications design that communicates with peripheral components such as ADC, DAC,, BLDC Motors, UARTs, flash memories, I2C, RS- 232/ 485 and EEPROMS, Character LCD, Graphic LCD, RFID, BLUETOOTH, BLE, PWMs etc.
+Filter design implementations at code level.
+Develop real-time embedded firmware for microcontrollers.
+Design to meet the requirements of functional safety standards.
+Troubleshooting and resolving firmware bugs, and validating functionality by testing
+Hardware Integration with Python application.
+Requirements:
+
+Bachelor Degree or Master’s Degree (preferred) in Electronics and Communication/ Electronics and Electrical / Instrumentation /Computer Science Engineering /Mechatronics.
+Minimum 7 years of experience in Low-power electronics firmware development.
+Programming language: Embedded C/C++, Python, Assembly languages`.
+Tools: IAR Workbench, Kiel IDE, SVN (Version Control),Visual Studio, Lattice Diamond.
+Knowledge of Real time Operating System: RTOS, VHDL, Verilog designing and programming CPLD's.
+Knowledge of FPGA and CPLD Architectures like Lattice, Xilinx etc.
+knowledge on modern software, data modelling and cyber secure architecture concepts.
+Experience with integration and using of embedded hardware.
+Microprocessor architecture, peripherals, and related analog/digital circuitry.
+Software debuggers and emulators for RENESAS / TI / ARM cortex processor family.
+Setting and using lab equipment such as oscilloscopes and logic analyzers.
+Knowledge of Industrial Communication Protocols: HART, Foundation Fieldbus, PROFIBUS, MODBUS, PROFINET, LORA.
+Knowledge of distributed control systems and/or programmable logic controllers.
+Ability to work with Linux and Shell scripting, Data handling, logging for embedded system development.
+Strong Knowledge of Python programming with Multithreading and multi-processing for performance optimization.
+
+---------------
+
+68.
+Full job description
+Are you looking for a unique opportunity to be a part of something great? Want to join a 17,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology, Inc.
+People come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our
+Vision, Mission, and 11 Guiding Values
+; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence.
+Our company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over
+30 years of quarterly profitability
+without a great team dedicated to empowering innovation. People like you.
+Visit our
+careers
+page to see what exciting opportunities and company
+perks
+await!
+Job Description:
+Microchip Data Center Solutions (DCS) Group vision is to connect, manage and secure the world's information by delivering innovative solutions for storage, memory & compute connectivity and end-point solutions aligned to market transitions.
+Our mission is to be the preferred partner for storage, memory, connectivity and end-point storage solutions for the world's data centers including AI infrastructure.
+Microchip, being one of the major suppliers of SAS/SATA Expanders and SAS/SATA/NVMe Storage controllers, is seeking highly skilled and experienced firmware development engineer, who will be joining a team of professionals in developing software and Real-Time Firmware solutions for state-of-art System-on-Chip (SoC) devices with embedded MIPS processors.
+Successful applicants will report to the Manager of Firmware Engineering and will collaborate with Cross Geo teams to design, develop, debug and support a wide variety of Storage controllers and expanders.
+Your responsibilities will include, but are not limited to the following:
+Develop firmware/device drivers/software for MIPS processor powered solutions using C
+Troubleshoot and resolve complex software problems in embedded real-time systems.
+Writing Unit test and validating the components you have developed adhering to the requirements
+Participate in detailed design and code reviews of implementations by team.
+Participate in technical analysis and designing of storage software solutions involving SAS/SATA expanders, SATA/SAS/NVMe RAID controller technologies and Network Storage architectures.
+Work with Apps/Marketing team to help customers in the development of their Storage solutions using Microchip devices and software/firmware components.
+Work in collaboration with other Microchip sites to design solutions and resolve customer issues
+Support current product and guide next generation product to production.
+Write comprehensive engineering documentation.
+Proactive approach to reaching out to stakeholders to drive your deliverables to closure
+Requirements/Qualifications:
+Bachelor's or higher degree in Electronics/Computer Science Engineering or related technical majors
+8+ years of strong firmware development experience in embedded systems using C programming and Assembly
+3+ years of experience with one or more storage protocols such as SAS/SATA/NVMe and knowledge of PCIe.
+Knowledge of scripting languages, programming tools and environments
+Basic understanding of RAID
+Extensive experience of storage firmware design and implementation.
+Demonstrated ability to conceive, design, implement and document complex firmware systems.
+Demonstrated knowledge in use of protocol analyzers and debug tools.
+Exposure to Storage Security features (Encryptions, SPDM, Hash algorithms) are added advantage
+Exposure to Network protocols (TCP/IP, ARP, understanding of ethernet frame formats, basic understanding of network device drivers), are added advantage.
+Effective communicator of technical ideas using verbal as well as written skills
+Team Player
+Highly motivated, sets personal goals, and achieves goals without supervision.
+Travel Time:
+0% - 25%
+To all recruitment agencies: Microchip Technology Inc. does not accept unsolicited agency resumes. Please do not forward resumes to our recruiting team or other Microchip employees. Microchip is not responsible for any fees related to unsolicited resumes.
+
+
+-----------------------
+
+69.
+Full job description
+Job Description:
+Schneider Electric is looking for a Principal Technical Expert – Embedded Firmware for Battery Management Systems
+(BMS) & Battery Packs for its Energy Storage Center of Excellence (CoE). SE’s Energy Storage CoE enables
+company’s growth through the development of innovative energy storage products that are battery technology-agnostic,
+scalable, cost-effective, and manufacturable.
+
+Incumbent will be responsible for:
+
+Embedded Firmware design and development for Battery Management Systems for UPS and Storage applications.
+Design, development, testing, debugging, documenting and launch to mass production BMS & Battery Packs that meet
+regulatory and safety standards, and reliability requirements.
+Play the role of technical lead for given project scope and thus coordinate with different stakeholders (both technical and
+project management)
+Technically lead the project in terms of requirement clarifications, prioritization of technical activities, design reviews, code
+reviews, test plan reviews and guidance for testing
+Handle the release activities (configuration management, issue tracking and closure)
+Act as technical SPOC for project specific reviews (safety, cybersecurity, stage gate, regulatory,…)
+Work with respective hardware lead(s) and other sub-system technical leads to ensure proper integration and
+functionality
+Competencies
+Responsibilities:
+Execute firmware related activities for the product which covers (but not limited to) following aspects:
+Requirement elicitation and documentation
+Document firmware designs using Flowcharts, State Machine diagrams, Sequence Diagrams and others
+Implementation of code related to identified design
+Unit testing of the developed code
+Integration testing of FW with HW on bench/ battery pack
+Analysis and issue resolution of defects detected as part of unit testing, DVT, production and/ or field
+Documentation of FW test specification and reports
+Reviews
+Work closely with peer FW engineers, FW architect and HW engineers to bring up boards or support in HW validation
+Derive and review test plans/ test cases for DVP, integration tests
+Follow AGILE principles for fast and efficient firmware development
+Ensure firmware configuration management and issue tracking/ closure
+Technical reviews: architecture/ design, code, test plan, test reports, release notes
+Bring out the best practices for firmware development and adapt continuous improvement processes
+
+Whom do you work with
+FW and HW leads/ team members
+V&V engineers
+Project Manager
+External teams (customers/ vendors/ validation agencies)
+KEY CONSIDERATIONS:
+Customer first attitude
+Act with Speed
+Obsessed with Innovation
+Learn Everyday
+Qualifications
+BS or higher in Electronics/ Electrical/ Computer Science Engineering, with practical experience
+Strong software fundamentals including architectural design, algorithm development, data structures, code modularity,
+maintainability, debugging
+15+ years of experience in embedded product development (specifically FW)
+(External) English Qualifications:
+Responsibilities:
+Execute firmware related activities for the product which covers (but not limited to) following aspects:
+Requirement elicitation and documentation
+Document firmware designs using Flowcharts, State Machine diagrams, Sequence Diagrams and others
+Implementation of code related to identified design
+Unit testing of the developed code
+Integration testing of FW with HW on bench/ battery pack
+Analysis and issue resolution of defects detected as part of unit testing, DVT, production and/ or field
+Documentation of FW test specification and reports
+Reviews
+Work closely with peer FW engineers, FW architect and HW engineers to bring up boards or support in HW validation
+Derive and review test plans/ test cases for DVP, integration tests
+Follow AGILE principles for fast and efficient firmware development
+Ensure firmware configuration management and issue tracking/ closure
+Technical reviews: architecture/ design, code, test plan, test reports, release notes
+Bring out the best practices for firmware development and adapt continuous improvement processes
+
+Nice-to-have requirements:
+
+Has worked on the design of Battery Management Systems (HW/ FW)
+Knowledge of cybersecurity standards e.g. IEC62443
+Experience with FW signing, cryptographic algorithm usage
+Scripting experience using Python/ Shell/ others
+Knowledge/ Practical experience with Functional Safety design and implementation (ISO26262/ IEC61508)
+Familiar with typical firmware development environment: IDE, code editors, configuration management, unit testing,
+debuggers
+Preferable with a master's degree in embedded systems or related field
+Detail-oriented, organized, deadline-driven
+Demonstrated excellence in analytic, strategic and critical thinking
+Strong communication skills
+Being able to “think out of the box”
+Demonstrated ability to drive issue resolution with speed
+Able to manage competing priorities and deadlines
+Experience working with diverse global team members.
+Any prior experience as Technical Lead (leading at least 2/3 members technically).
+
+--------------
+
+70.
+Full job description
+Location: Bangalore, KA, IN, 560048
+Business Unit: E&PI
+Posting Date: Feb 13, 2026
+Job Description:
+The Firmware Engineer will develop new embedded application by designing, developing, testing, and releasing the firmware solutions. The candidate must be able to work across multiple stages of R&D projects and manage multiple competing priorities at the same time.
+
+Roles and Responsibilities:
+Embedded Software design for the company's suite of process instruments
+Analyze requirements and provide creative software solutions and designs to meet these requirements
+Design and develop application on Linux and/or RTOS platforms
+Design and develop drivers for Linux and/or RTOS platforms
+Participate in software and hardware design reviews
+Generate design documentation and test plans
+Provide legacy product software support and software updates as necessary
+Contribute to process improvement initiatives as required.
+
+Preferred Skills:
+Expert knowledge of C/C++ and Object-oriented programming
+Strong knowledge of Linux and experience in Linux Application development
+Proficient in develping firmware on bare metal systems as well as with real-time operating systems from Free RTOS to Linux (using Yocto build system).
+Capable of provisioning an RTOS from scratch
+Familiarity with TCP/IP communications and basic network systems
+Familiarity with high-level communication protocols such as MODBUS, HART. CANOpen a plus.
+Experience with low-level communication protocols such as SPI, I2C, CAN, UART
+Familiarity and experience with hardware device drivers such as A/Ds, D/As and other IC peripherals are desirable.
+ARM micro controller experience, especially ST Microelectronics
+Experience with debugging/diagnostic techniques and tools
+Must have a working knowledge of electronics and work closely with the hardware engineers from concept to HW/SW
+
+----------------
+
+71.
+Full job description
+Overview:
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career.
+Responsibilities:
+MTS FIRMWARE ENGINEER
+
+THE ROLE:
+We are looking for an MTS (Member of Technical Staff) Engineer with an obsession for firmware. As part of the role, this engineer will work closely with other firmware engineers, developers and architects across various IPs in designing and implementing firmware that spans pre-silicon and post-silicon for all AMD SoCs.
+
+THE PERSON:
+You are passionate about firmware development with creative and effective problem-solving skills, a motivated, self-starter who can work both independently and collaboratively in fast paced environments. You have excellent technical communication, interpersonal and leadership skills.
+
+KEY RESPONSIBILITIES:
+Design, Develop, Debug, Verify and/or Validate Firmware, and/or Software
+Implement DDR/LPDDR/HBM training algorithms and PHY features in Firmware
+Participate in day-to-day firmware development work
+Take part in silicon bringup in the lab
+Make and meet commitments, and execute with honesty, flawlessly
+Provide consultation to internal and external customers regarding AMD features and programming requirements
+
+PREFERRED EXPERIENCE:
+Proficient in C programming
+Proficient in debugging firmware in pre and post Silicon environments
+Previous experience in DDR/LPDDR, Memory firmware, MRC and BIOS firmware would be very helpful
+Previous experience in any other high speed IO interface firmware development (Serdes, USB, PCIE, UCIE etc.) also helpful
+Expert level experience producing quality firmware
+
+ACADEMIC CREDENTIALS:
+Bachelors or Masters degree (preferred) in Computer Science, Computer Engineering, Electrical Engineering, or equivalent
