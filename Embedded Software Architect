@@ -1,0 +1,1817 @@
+# Embedded Software Architect
+
+----------------------------------
+
+1. 
+About the job
+Job Description
+GalaxEye aims to shape the future of Satellite Image Acquisition, providing the most meaningful datasets, thus helping businesses and governments make data-driven decisions based on insights from satellite imagery. We will provide Satellite Imagery Datasets and Value-added services to Geospatial Analytics Companies and Infrastructure enterprises. At GalaxEye, we are working to build the best remote sensing satellites and also, we are researching various aspects of remote sensing.
+
+The Command & Data Handling (C&DH) team at GalaxEye is responsible for developing the complete satellite software stack that enables onboard operations, data management, and coordination across spacecraft subsystems. The team operates in a highly collaborative environment with strong cross-functional interactions across hardware, payload, and mission teams. This role offers significant ownership of work, encouraging engineers to take initiative, justify technical decisions, and proactively address upcoming challenges as part of a team of passionate individuals building next-generation space systems.
+
+Responsibilities:
+Understanding system/functional requirements, breaking it down into software requirements.
+ 
+Responsible for development of Software architectures with the team
+ 
+Design and Implement algorithms using minimal memory and cycles with rigid real time deadlines
+ 
+Build validation framework for validation of implemented algorithms
+ 
+Creating Software Detailed Design documentation.
+ 
+Code implementation in C/Python (As per the layered architecture ).
+ 
+Performing Static Analysis, Unit Testing, and Integration Testing.
+ 
+Responsible for the evaluation of third-party software, debugging field issues, and involving peer reviews
+ 
+Guide a team of people on Software development practices
+ 
+Bring on CI/CD processes for software reliability testing
+ 
+
+Requirements
+
+Essential
+B.Tech, BS, MS or PhD in EE/CE/CS, or the equivalent in experience with evidence of exceptional ability.
+ 
+5+ years of professional working experience in developing mission critical embedded firmware and software peripherals
+ 
+Experience with design and implementation of bare metal control firmware which is highly optimised for cycles and memory.
+ 
+Deep understanding of the difference between design for a software platform and a highly constrained firmware environment
+ 
+Understanding of the use of data structures for deterministic and efficient reads and writes
+ 
+Understanding of parallel or SIMD programming.
+ 
+Fundamental facility with C and C++, compilers, build & source code control tools.
+ 
+Working knowledge of RTOS-based systems
+ 
+Solid understanding of computer architecture with emphasis on HW/SW interfaces for high speed communication.
+ 
+Proficiency debugging and bring-up of embedded systems. Familiarity with UARTs, JTAG, and oscilloscopes.
+ 
+Working knowledge of low-level drivers for microcontrollers (ADC, PWM, GPIO, Timers, RTC, Flash, EEPROM, etc.)
+ 
+Experience with emulation systems, build automation, and virtual platforms.
+ 
+Strong debugging and analytical skills, verification and validation of embedded systems
+ 
+Knowhow of using Lab equipment (oscilloscopes, multimeters, logic analysers, etc).
+ 
+Good to Have
+
+Knowledge of Agile/Scrum Methodology.
+ 
+Experience in UML Designing.
+ 
+Experience with scripting languages like Python or Perl.
+ 
+Knack for designing layered/modular architectures.
+ 
+Experience in mechatronic / robotics / avionics systems would be a big plus.
+ 
+Personality Traits 
+Excellent creative thinking and attention to detail
+ 
+Ability to work with a distributed and diverse team of researchers, developers, designers, and engineers
+ 
+Ready to learn new concepts, stay up-to-date with the state-of-the-art in the field and implement them
+ 
+Ability to work within deadlines and dynamic work environment
+ 
+
+
+-------------------
+
+2. 
+About the job
+Job Requirements
+
+At Quest Global, it’s not just what we do but how and why we do it that makes us different. With over 25 years as an engineering services provider, we believe in the power of doing things differently to make the impossible possible. Our people are driven by the desire to make the world a better place—to make a positive difference that contributes to a brighter future. We bring together technologies and industries, alongside the contributions of diverse individuals who are empowered by an intentional workplace culture, to solve problems better and faster.
+
+We are looking for a highly experienced Embedded Systems Architect (with around 10-12 years of experience) to join our team who is capable of driving solutioning and product architecture. The candidate should also excel in team building, idea generation, customer focus and innovation.
+
+Job Description
+
+Understand the requirements and prepare estimates
+Perform technical discussions with internal and customer counterparts
+Break down high level tasks into smaller, executable steps for the team. 
+Lead root cause analysis for defects and collaborate with customer / internal stakeholders to suggest fixes or workarounds.
+Provide advanced debugging strategies to the team
+Mentor the team & drive continuous improvement in validation workflows to reduce cycle time and increase coverage
+Demonstrate success in delivering results on time with Quality.
+Predict project risks and develop mitigation plans
+Perform technical reviews of work items before delivering to stakeholder/customer
+
+Work Experience
+
+Required Skills and Experience
+
+Expert in firmware development lifecycle; design, implementation, validation, release
+Excellent in Software architecture and design of embedded systems
+Programming languages: Embedded C, C++
+Excellent problem-solving and analytical skills.
+Leads board bring-up of complex systems including multi-core SoCs
+Proficient in performance tuning, memory optimization, and code profiling
+Solid understanding in Bare Metal programming & enabling HW IPs, interrupts, etc.
+Expertise in development and maintenance of firmware, device driver/bare metal driver.
+Experience in CSI, DSI, UCIe, NPU, I2C, UART, SPI, USB, ADC, DAC, DMA, etc.
+Familiarity with schematic diagram, H/W user manuals, Data sheets, Basic H/W circuits and debugging tools such as DSO, multi-meter etc.
+
+Essential Skills
+
+Experience in Continuous Integration tools like SVN, Git, Jira etc.
+Knowledge of bare-metal and RTOS-based designs
+Familiarity in code optimization techniques and coding standards such as MISRA C
+
+Good To Have Skills
+
+Experience with IoT and modern connectivity solutions.
+Knowledge of cloud platforms & services (e.g., AWS, Azure) and AI.
+Certification in embedded systems or related fields.
+Cross-industry experience in embedded systems architecture.
+
+------------------
+
+3.
+About the job
+Overview
+
+We are seeking an Android and Embedded Software Architect to lead the architecture and technical roadmap for next-generation IFEC systems running on Android/Linux platforms and multi-tiered client-server technologies.
+
+Responsibilities
+
+🔹 Architect & develop end-to-end infrastructure software for embedded Linux/Android-based IFEC systems.
+
+🔹 Define, document, and communicate scalable, secure, and high-performance architectures.
+
+🔹 Oversee OS integration (Linux, Android, RTOS), networking, storage, and security frameworks.
+
+🔹 Lead discussions on hardware-software integration, ensuring seamless performance.
+
+🔹 Optimize performance for resource-constrained embedded environments.
+
+🔹 Evaluate emerging technologies and define roadmaps for future digital products.
+
+🔹 Mentor engineers, drive technical leadership, and ensure best practices in software design.
+
+🔹 Collaborate with cross-functional teams (engineering, hardware, product) to deliver high-impact solutions.
+
+🔹 Design and document end-to-end infrastructure software architecture for Linux/Android-based IFEC systems.
+
+🔹 Define and implement secure, high-performance, scalable software frameworks.
+
+🔹 Collaborate with engineering, product, and hardware teams to shape the next-gen aviation experience.
+
+🔹 Evaluate new technologies, optimize performance, and ensure seamless integration.
+
+🔹 Lead architecture discussions, mentor engineers, and drive innovation.
+
+Qualifications
+
+✔ 10+ years in Linux/Android embedded systems development.
+
+✔ Strong expertise in networking, security, storage, and hardware integration.
+
+✔ Experience in device drivers, system calls, and real-time processing.
+
+✔ Ability to design scalable, maintainable, and secure architectures.
+
+✔ Exceptional leadership, problem-solving, and communication skills.
+
+--------------
+
+4.
+About the job
+Minimum qualifications:
+
+8 years of experience leading an embedded or firmware development team.
+Experience with embedded software or firmware development in C/C++.
+Experience with bringing up bare-metal environments on SoCs.
+Experience in leading firmware debugs on silicon and usage of debug tools such as TRACE32, OpenOCD, etc.
+
+Preferred qualifications:
+
+Experience with ARM and RISC-V architectures.
+Experience in using emulation platforms for firmware enablement, validation, and debug.
+Experience in industry standard software development practices and agile methodologies.
+Understanding of SoC architecture and interfaces (e.g., AXI, DDR, PCIe, etc.).
+
+About The Job
+
+In this role, you’ll work to shape the future of AI/ML hardware acceleration. You will have an opportunity to drive cutting-edge TPU (Tensor Processing Unit) technology that powers Google's most demanding AI/ML applications. You’ll be part of a team that pushes boundaries, developing custom silicon solutions that power the future of Google's TPU. You'll contribute to the innovation behind products loved by millions worldwide, and leverage your design and verification expertise to verify complex digital designs, with a specific focus on TPU architecture and its integration within AI/ML-driven systems.
+
+The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.
+
+We're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.
+
+Responsibilities
+
+Build, manage and lead the team responsible for firmware and infrastructure development to enable bring-up and validation of the AI/ML SoC designs.
+Lead and enable the team to develop embedded firmware, bare metal tests and low-level debug tools for pre and post-silicon validation of SoCs. Exercise these capabilities on emulation, simulation and silicon platforms.
+Co-work with architecture, design and verification teams and enable Hardware-Software co-design. Engage with the silicon design team at a very early stage and drive integration validation and firmware features enablement as the silicon development progresses.
+Work with post-silicon and platform hardware teams to ensure silicon enablement and support silicon debugs.
+Drive all the people management functions including, but not limited to, hiring, people development, prioritizing and managing resources to achieve project execution timelines.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+
+---------------
+
+5.
+About the job
+Job Description
+
+
+
+Tasks / Responsibilities:
+
+
+
+As a Software Test Architect, your primary responsibilities will include:
+Test Strategy & Architecture Definition: Define and lead the development of the overall test strategy, architecture, and frameworks for our off-highway controller software running on QNX/TDA4Vx. This includes HIL, SIL, unit, integration, and system-level testing.·
+Framework Design & Evolution: Design, implement, and continuously evolve scalable, maintainable, and robust test automation frameworks (e.g., Python-based, Robot Framework, custom solutions) to support complex applications.·
+Toolchain Selection & Integration: Evaluate, select, and integrate appropriate testing tools, platforms, and technologies (e.g., test management systems, defect tracking, CI/CD tools, HIL benches, simulation environments).·
+Performance & Reliability Engineering: Define strategies for performance testing, stress testing, and long-term reliability testing of the QNX-based system and its interfaces.·
+Functional Safety & Security Testing: Architect testing approaches for functional safety (e.g., ISO 13849, potential ASIL) and cybersecurity aspects·
+
+
+Requirements to Test Traceability:
+
+Establish and enforce robust traceability from high-level requirements down to individual test cases and defect reports.·
+Team Leadership & Mentorship: Provide technical leadership, guidance, and mentorship to a team of test engineers, fostering best practices and continuous improvement.·
+Cross-Functional Collaboration: Work closely with software architects, development leads, system engineers, and product managers to understand system architecture, design specifications, and define comprehensive test coverage.·
+DevOps & CI/CD Integration: Drive the integration of testing activities into our DevOps pipeline, focusing on continuous testing, automated deployments, and efficient feedback loops using Docker, Dev Containers, and other tools.·
+Technical Roadmapping: Contribute to the technical roadmap for testing infrastructure, anticipating future needs and challenges.·
+Problem Solving & RCA: Lead complex debugging efforts and root cause analysis for critical system issues identified during testing.·
+Documentation & Standards: Establish and maintain testing standards, processes, and comprehensive documentation for all testing artifacts.
+
+
+Expected skill set:· 
+
+Test Architecture & Strategy : Proven experience defining and implementing comprehensive test strategies and architectures for complex embedded systems running RTOS (QNX preferred) on high-performance SoCs (TDA4Vx, similar automotive/embedded processors).·
+Advanced Test Framework Design & Development: Expertise in designing, building, and maintaining scalable, modular, and data-driven test automation frameworks using Python, including experience with robot test frameworks.·
+Deep Embedded Systems & Real-time OS Knowledge: In-depth understanding of QNX OS internals, real-time constraints, memory management, multi-threading, and hardware-software interaction on TDA4Vx or similar platforms.·
+Communication Protocols & Sensor Interfacing Expertise: Architect-level understanding and hands-on experience designing test solutions for various protocols (CAN/CAN-FD, Ethernet, SPI, I2C) and complex sensor interfaces (Camera, LiDAR, RADAR, GPS, IMU) at a system level.·
+DevOps, CI/CD & Virtualization for Embedded: Expert-level knowledge and practical experience integrating testing into CI/CD pipelines, utilizing Docker, Dev Containers, virtual environments, and HIL/SIL for continuous validation of embedded systems.·
+Experience with Vector CANoe and its scripting languages (e.g., CAPL)Good to Have skills:·
+Experience with functional safety standards (e.g., ISO 13849, ISO 26262) and safety-critical
+
+
+
+
+Qualifications
+
+• Education: Bachelor's or Master's degree in Computer Science, Electrical Engineering, Robotics, or a related field. PhD is a plus.
+
+
+
+Experience required
+
+13 to 15 years
+
+_____________
+
+6.
+About the job
+Exp: 10+ Yrs
+
+
+
+Experience in working with SoCs like QCOM , Reneses , TI.
+Experience in working with QNX, Linux kernels.
+Strong analytical and problem-solving skills,
+Strong experience in Software development using C++
+OOPs & Design patterns ,
+Experience in writing the Software architecture for the SW component is a must
+Experience with Enterprise Architect/Catia is a must
+Strong Understanding of software engineering principles and best practices
+Experience with Multi-core Software Architecture Design is a plus.
+
+Requirements added by the job poster
+
+• 7+ years of work experience with C++
+
+
+--------------
+
+7.
+About the job
+Experience with embedded C/C++ programming. Strong knowledge of TCP/IP protocols and networking layers. Familiarity with RTOS and network stacks (lwIP, FreeRTOS+TCP). Experience with Wi-Fi, Ethernet, or cellular modules. Expertise in TCP/IP, UDP, and IPv6. Experience with security protocols (TLS/SSL, DTLS). Knowledge of embedded Linux networking.
+
+Design and implement embedded software for network communication protocols (TCP/IP, UDP, MQTT, etc.). Develop firmware for microcontrollers and SoCs with networking capabilities. Optimize network stack performance and reliability. Collaborate with hardware engineers on network interface integration. Debug and troubleshoot network communication issues.
+
+-------------
+
+8.
+
+About the job
+Job Requirements
+
+Job Summary
+
+We seek experienced Technical Architect with a minimum of 12+ years of experience in design development of complex real time software (middleware and applications) for embedded platforms. The ideal candidate will be responsible for successful project execution while maintaining required standards and quality.
+
+Key Responsibilities
+
+ Design end-to-end solutions ensuring scalability, modularity, re-usability and serviceability.
+ Participate in the full software development lifecycle, from requirements gathering and estimation, design to implementation and testing by following system architectural strategies and guidelines.
+ Provide technical leadership and guidance to software development teams through the project lifecycle.
+ Lead and participate in design reviews and code inspections to ensure high-quality product design
+ Analyze and enhance the efficiency, stability and scalability of system resources, their performance and functionality
+ Assist in the debugging and testing of embedded software systems.
+ Ensure compliance with safety standards and protocols
+ Maintain comprehensive documentation of all design and development processes
+ Stay updated with the latest technologies and trends on embedded systems in automotive domain
+
+Work Experience
+
+Must Have:
+
+ Bachelor’s/master’s degree in computer science, Electronics, Embedded Systems
+ 12+ years in developing software on embedded C++ covering application/middleware/framework
+
+Excellent in C++ (preferably C++ >14) and object-oriented programming & design patterns
+
+ Experience in developing software for real-time core (CR) and application core (CA) of embedded platforms
+ Good understanding on QNX basics, board bring up and experience development of middleware and application on QNX environment.
+ Experience in multithreading, IPC and task scheduling on QNX
+ Experience working on QNX hypervisor development environment and tools
+ Basic understanding about QNX middleware library for Camera and Display
+ Good software debugging skills using tools like gdb, Valgrind, Visual Studio etc.
+ Excellent problem-solving abilities and attention to details
+ Strong communication skills for clearly communicating ideas and concepts to team/customer
+
+Good To Have
+
+ Experience on agile development framework
+ Knowledge of embedded processor architectures, hardware accelerators such as ISP, GPU, NPU etc.
+ Possess knowledge of high-performance computing, central zonal architectures
+ Hands-on experience in ISO 26262 Functional Safety projects, ASPICE-compliant projects
+ Experience working with multi-OS environment using hypervisor and Linux OS
+ Experience in Continuous Integration tools like SVN, Git, Jira etc.
+
+-----------
+
+9.
+Job description
+You are an Energetic, Passionate, and Innate Software technology leader having excellent knowledge of designing and developing Linux based embedded products and having an experience of 8+ years with at least 4-5 years of experience of technical leadership.
+You possess very good knowledge of Software Architecture and Design, Design Patterns, OOPS concepts, Data Structures and Algorithms, Messages Queues, Multi-threading applications, Networking concepts and software security. You are competent to design, develop and deliver Software applications and embedded products.
+
+Experience : 8+ Years
+Qualification : B.E/ B.tech/ M.E/ M.tech (EC, Electronics, Electronics & Telecommunication, Computer Engineering, CSE) or related field
+
+Technical Skills Required:
+Hands-on experience in C/ C++, Embedded C (Very strong exposure in C Programming concepts).
+Linux, Command of Linux OS.
+IPC - Inter-Process Communication exposure (Multithreading and Socket Programming).
+Working experience or Knowledge with Microprocessors like Arm 7/9, Cortex A8/A15, Qualcomm, Intel, IMX,NXP etc will be a huge plus.
+You have sound knowledge and hands-on experience in one or more Technologies/Platform like Socket Programming, Multi-Threading, ONVIF/RTSP, Video codecs H264/H265, Video Parsing of H264/H265, Image processing, Embedded Web Server, BLE, WIFI, RS485. UART, Push Notification (FCM), VoIP (SIP & RTP).
+You possess good knowledge and working experience in one or more Tech Stacks/Frameworks like Ffmpeg, Gstreamer, QT/QML, LIVE555, OpenCV(Image Processing), Networking Fundamentals, Basic Linux commands.
+You are proficient in at least two or more languages from among C, JAVA, Python, C++, HTML/CSS, JQuery/Javascript.
+You take complete ownership of timely product delivery with impeccable software quality.
+You have experience in building, leading, and managing multi-engineer project teams.
+You have the ability to navigate the teams through fast changing market needs.
+You possess strong people leadership skills in growing/nurturing/mentoring the young engineers.
+You are a motivated problem solver who can accurately document and communicate issues, can present the problem and solution in a short and crisp manner without taking into circles.
+You have a good understanding of JIRA, Confluence, SVN, Fisheye, Crucible, Sonar/Parasoft/LDRA and Nessus/Nexpose.
+
+How your day might look like
+Drive the design, strategy, and execution of software development projects to support product roadmaps. Select best technologies to build a product to serve the customer use cases.
+Ensure that the engineering team understands the business direction, customer requirements in detail and how each individual engineer s work contributes towards the big picture of the product s success and in turn company s success.
+Work with development teams and product managers to ideate a solution.
+Collaborate and prioritize Epics/Stories with Product Owners and Product Managers on new products and new features and ensure deadlines are met within the scrum teams.
+Attract, Hire, Retain, motivate and mentor the software engineering teams.
+Build the necessary skills in the team either by training the existing resources on new areas or hiring new members in the team.
+Validate important design decisions that lead to technical debt or increase in project cost or delays in project deliveries.
+Increase the Velocity of development through operational excellence.
+
+What we offer
+Opportunity to work for an Indian Tech Company creating incredible products for the world, right from India
+Be part of a challenging, encouraging, and rewarding environment to do the best work of your life
+Competitive salary and other benefits
+Generous leave schedule of 21 days in addition to 9 public holidays, including holiday adjustments to convert weekends into long weekends
+5-day workweek with 8 flexi-days months, allowing you to take care of responsibilities at home and work
+Company-paid Medical Insurance for the whole family (Employee+Spouse+Kids+Parents). Company paid Accident Insurance for the Employee
+On-premise meals, subsidized by the company
+Role: Head - Engineering
+Industry Type: Consumer Electronics & Appliances
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+TelecomC++jQueryMultithreadingLinuxNetworkingJavascriptData structuresHTMLPython
+
+
+---------------
+
+10.
+About the job
+
+We are looking for an Embedded Software Architect to lead the design and development of next-generation automotive ECUs and domain controllers. The role involves close collaboration with hardware, system, and safety teams.
+
+Responsibilities
+
+Define system and software architecture for automotive embedded platforms
+
+Translate system requirements into software components and interfaces
+
+Lead AUTOSAR-based architecture design and integration
+
+Ensure compliance with ISO 26262 functional safety requirements
+
+Drive performance optimization and memory footprint reduction
+
+Lead design reviews, code reviews, and architecture governance
+
+Work closely with hardware teams for board bring-up and validation
+
+Mentor engineers and define development best practices
+
+Requirements
+
+Must Have
+
+6–10 years of embedded software development experience
+
+Strong expertise in Embedded C/C++
+
+Experience with AUTOSAR (Classic/Adaptive)
+
+Good understanding of CAN, LIN, FlexRay, Ethernet
+
+Experience in RTOS and bare-metal systems
+
+Knowledge of ISO 26262 / ASPICE
+
+Experience with microcontrollers (Infineon, NXP, Renesas)
+
+Good to Have
+
+Experience in automotive middleware
+
+Familiarity with tools like Vector CANoe, DaVinci
+
+---------------
+
+11.
+About the job
+
+We are building scalable IoT platforms and are looking for an architect who can design firmware and edge systems for connected devices.
+
+Responsibilities
+
+Design end-to-end IoT firmware architecture
+
+Define communication protocols and cloud integration strategy
+
+Optimize power consumption and device performance
+
+Lead firmware development lifecycle from design to deployment
+
+Build OTA update mechanisms
+
+Work with cloud teams for data pipelines
+
+Requirements
+
+Must Have
+
+6+ years in embedded systems and IoT
+
+Strong knowledge of TCP/IP, MQTT, HTTP
+
+Experience with FreeRTOS / Zephyr
+
+Embedded Linux experience is a plus
+
+Experience with ESP32 / STM32 / Nordic chips
+
+Good to Have
+
+AWS IoT / Azure IoT experience
+
+Security protocols (TLS, DTLS)
+
+------------------
+
+12.
+About the job
+
+Join our robotics team to design real-time control systems and intelligent embedded platforms.
+
+Responsibilities
+
+Architect real-time control systems
+
+Design sensor integration frameworks
+
+Optimize latency and deterministic performance
+
+Work with perception and control teams
+
+Requirements
+
+Must Have
+
+Experience with ROS/ROS2
+
+Strong real-time systems knowledge
+
+Experience with sensors (LiDAR, IMU, Cameras)
+
+Strong C++ skills
+
+---------------------------
+13.
+About the job
+
+You will work closely with silicon teams to enable firmware for next-gen SoCs.
+
+Responsibilities
+
+Lead firmware bring-up on new silicon
+
+Develop low-level drivers and boot code
+
+Work with hardware teams for validation
+
+Optimize firmware for performance and power
+
+Requirements
+
+Must Have
+
+Experience with SoC architecture
+
+Knowledge of ARM/RISC-V
+
+Experience with JTAG, TRACE32
+
+---------------
+
+14.
+
+Job Brief
+We are looking for a skilled Embedded Software Architect to join our dynamic team.
+
+Your primary responsibility will be to design and develop the software architecture for embedded systems.
+
+The Embedded Software Architect responsibilities include understanding system requirements, designing the software architecture, and overseeing the development and testing of the embedded software.
+
+Our ideal candidate has deep understanding of embedded systems, possesses strong problem-solving abilities, and has experience in C/C++ programming language.
+
+Ultimately, the role of the Embedded Software Architect is to create robust and scalable software architectures that support the needs of our innovative products.
+
+Responsibilities
+Design and develop the software architecture for embedded systems
+Understand and analyze system requirements
+Oversee the development and testing of the embedded software
+Provide technical leadership to the software development team
+Ensure the integration of the software with hardware components
+Create software verification plans and quality assurance procedures
+Document software design and functionality
+Maintain and upgrade existing embedded systems
+Ensure compliance with software design standards and methodologies
+Collaborate with stakeholders to identify and implement new software features
+ 
+
+Qualifications
+Proven experience as an Embedded Software Architect or similar role
+Excellent knowledge of C/C++ programming language
+Experience with embedded systems design and Real-Time Operating Systems (RTOS)
+Understanding of hardware/software integration
+Familiarity with software configuration management tools, defect tracking tools, and peer review techniques
+Proficiency in software architecture methodologies
+Ability to document complex software architectures
+MSc degree in Computer Science, Engineering or relevant field
+
+--------------
+
+15.
+About the job
+About Aptiv
+
+Aptiv is a global technology company that develops safer, greener and more connected solutions, which enable the future of mobility. Headquartered in Dublin, Ireland, Aptiv has 160,000 employees and operates 14 technical centers, as well as manufacturing sites and customer support centers, in 44 countries. Visit aptiv.com
+
+Today, our mission is to shape the world with more safer, greener and more connected solutions that's changing the world. We are dedicated to bring the next generation of autonomous vehicles, smart cities and connectivity to life.
+
+Aptiv Connection Systems, Chennai Engineering Center in Chennai, India established in 2001 catering complete product development solutions right from concept design till validation testing to global OEMs.
+
+Qualification& Experience
+
+Bachelor's in Electrical & Electronics / Electronics & Communication Engineering with 7-10 Years of experience.
+
+Roles & Responsibilities
+
+Proficiency in C/C++ programming languages for embedded systems.
+Solid experience with MCU development and debugging .
+Understanding of the experience with the Qi wireless charging standard and related protocols (e.g., PD fast charging) is highly preferred .
+Good knowledge for NFC function and NFC architecture.
+Experience with common communication interfaces such as I2C, SPI, UART,CAN .
+Ability to read schematics and basic hardware knowledge to enable effective collaboration with hardware engineers .
+Knowledge of encryption algorithms (e.g., RSA, SHA256) is a plus.
+Strong problem-solving skills, a good sense of teamwork, and responsibility.
+
+Traits we seek
+
+A curious engineer who owns the task and acts with urgency in meeting the organizational objectives.
+Demonstrating by example.
+An effective communicator, actively collaborates with Hardware and System teams of internal and external in nature.
+Drive for changes with high level of ownership to win as a team.
+Problem solving and critical thinking capabilities, inquisitiveness to learn continuously with growth mindset.
+
+--------------
+
+16.
+About the job
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career. 
+
+BIOS & Firmware Architect
+
+The Role
+
+We are seeking a BIOS and Firmware Architect to join our team that will thrive in a fast-paced work environment, using effective communication, problem-solving and prioritization skills. Individuals that are well organized, show great attention to detail, and employ critical thinking are well-suited for our team.
+
+The Person
+
+This AMD (Advanced Micro Devices) team is looking for a senior level person that can help guide the team, mentor upcoming developers, provide long range strategy, and is willing to jump in to help resolve issues quickly.  You will be involved in all areas that impact the team including performance, automation, and development. The right candidate will be informed on the latest trends and become prepared to give consultative direction to senior management.
+
+
+
+Key Responsibilities
+ Firmware Architecture & Technical Strategy
+Own the end‑to‑end BIOS/UEFI and platform firmware architecture for one or more SoC/platform programs.
+EDKII and Coreboot knowledge is a plus
+Define modular firmware design principles: portability, scalability, observability, update safety, and maintainability.
+Establish the firmware roadmap aligned with product strategy, platform requirements, and silicon capabilities.
+Lead architecture reviews and ensure alignment across firmware components (bootloaders, PEI/DXE drivers, BMC/ME/PSP interfaces, platform init flows)
+ Boot Flow, Initialization & Platform Bring‑Up
+Architect and drive platform boot sequences, including:
+CPU and silicon initialization
+Memory bring‑up (DDR training, init, error handling)
+IO initialization (PCIe/CXL/USB/SATA/NVMe/Ethernet, as applicable)
+ACPI table generation and OS handoff
+Enable pre‑silicon firmware bring‑up (emulation/FPGA/simulation environments), accelerating first‑silicon readiness.
+Partner with validation and silicon bring‑up teams on root cause analysis across HW/FW/SW boundaries.
+ Security Architecture & Secure Firmware Lifecycle
+Define and implement secure platform foundations:
+Secure Boot chain of trust, firmware authentication, measured boot
+Firmware update security, rollback prevention, anti‑tamper
+Security event logging and policy enforcement
+Collaborate with security teams on vulnerability response processes and secure development practices.
+ Power, Performance, RAS, and Reliability
+Architect firmware support for:
+Power management frameworks (P‑states/C‑states, idle policies, low power modes)
+Performance tuning hooks and telemetry
+RAS features (error detection, reporting, recovery flows; MCA/EDAC integration as relevant)
+Watchdogs, health monitoring, crash dump capture, post‑mortem analysis support
+Define observability: logs, traces, counters, firmware performance profiles.
+ Firmware Quality, Validation & Release Governance
+Define firmware quality gates and release criteria (stability, boot KPI, stress, compliance).
+Drive robust validation strategies:
+Unit/component tests for firmware modules
+Automated boot/regression infrastructure
+Compatibility testing across OS, devices, and platform SKUs
+Own release governance: versioning, change control, branching strategy, and integration cadence.
+ Ecosystem & Cross‑Functional Leadership
+Act as the primary firmware interface across teams:
+Silicon/SoC design and IP owners (memory, PCIe, security, power)
+Platform board design and electrical teams
+System software, kernel/driver, hypervisor teams
+Validation, manufacturing, and field support
+Provide technical influence—drive upstream design decisions that improve firmware simplicity and platform robustness.
+Preferred Experience
+
+15–20+ years experience in BIOS/UEFI or low‑level firmware architecture and development.
+Deep expertise in:
+UEFI/BIOS architecture (boot phases, drivers, DXE/PEI concepts)
+Low‑level CPU/platform initialization flows
+ACPI/SMBIOS concepts and OS handoff behavior
+Debugging complex boot issues across HW/FW/OS
+Strong understanding of platform fundamentals:
+Memory subsystem bring‑up, training, and error handling
+IO initialization and enumeration (PCIe stack, device discovery)
+Power management and performance tradeoffs
+Proven cross‑functional leadership and ability to drive technical decisions across teams.
+Academic Credentials
+
+Bachelor’s or Master’s in Electrical Engineer, Computer Engineering, Computer Science, or a closely related field 
+
+
+-------------------------
+
+16.
+About the job
+NVIDIA has continuously reinvented itself over two decades. NVIDIA’s invention of the GPU in 1999 fueled the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world.
+
+This is our life’s work — to amplify human imagination and intelligence. NVIDIA Tegra platform is at the forefront of the computing revolution and providing powerful solutions for embedded and automotive markets. Now, we are now looking for a System Software Engineer in Automotive or Embedded field! You will work directly in developing or integrating NVIDIA software technologies into various NVIDIA Tegra platforms, including platform bring up, driver porting and integration, use case development, and problem solving. The candidate might work with the other team to provide deep technical assistance and also assist HW to achieve fully optimized design with NVIDIA products and provide HW feedback as to product features and software improvements.
+
+As a valued member of our team, your primary responsibility will be to develop safety-critical firmware and middleware specifically designed for ARM-based CPUs. Your role will directly contribute to the advancement of NVIDIA’s automotive autonomous software, supporting both current and future generation hardware platforms. In this position, familiarity with more than one RTOS is considered advantageous.
+
+What You'll Be Doing
+
+Design, develop and maintain embedded software for ARM based CPUs that enables NVIDIA platforms to run safety‑critical applications.
+Collaborate with architecture, hardware and other software teams to design SW with a focus on scalability and re-usability across platforms.
+Take ownership of project deliverables by ensuring successful deployment of solutions across platforms.
+
+What We Need To See
+
+B.Tech or M.Tech (or equivalent experience) degree in EE/CS or related field
+5+ years of experience in a software development role.
+Proficiency in C programming and low-level driver experience with strong expertise in system-level debugging.
+Excellent debugging and analytical skills.
+Expertise in ARM CPU architecture and associated SW development.
+Experience in at least one production-grade RTOS.
+
+Ways To Stand Out From The Crowd
+
+Skilled in using automation and generative AI tools.
+Expertise in more than one RTOS (e.g., SafeRTOS, Zephyr), enabling seamless interoperable SW development for embedded systems
+Experience in developing ISO26262 based safety critical SW for ASIL-D systems.
+Ability to work independently with minimum supervision
+Schedule oriented with excellent execution abilities
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+
+, , JR2012038
+
+
+--------------
+
+17.
+Title 
+Embedded Systems Architect
+
+
+Description 
+We are looking for an experienced Embedded Systems Architect to lead the design and development of embedded systems across a variety of applications. This role requires a deep understanding of hardware-software integration, real-time operating systems, and embedded software development. The ideal candidate will have a strong background in embedded systems engineering and a proven track record of architecting scalable and efficient embedded solutions. As an Embedded Systems Architect, you will collaborate with cross-functional teams including hardware engineers, software developers, and product managers to define system requirements and translate them into robust embedded architectures. You will be responsible for selecting appropriate hardware platforms, designing system-level software architecture, and ensuring that the embedded systems meet performance, reliability, and safety standards. You will also play a key role in evaluating new technologies, tools, and methodologies to improve the development process and product quality. Your expertise will guide the team in best practices for embedded software development, including code reviews, testing strategies, and documentation. This position requires excellent problem-solving skills, strong communication abilities, and a passion for innovation. You should be comfortable working in a fast-paced environment and capable of managing multiple projects simultaneously. Key success factors include the ability to think strategically, lead technical discussions, and mentor junior engineers. If you are passionate about embedded systems and enjoy working on cutting-edge technology, we encourage you to apply.
+
+Responsibilities
+ Design and define embedded system architectures for new products
+ Collaborate with hardware and software teams to ensure seamless integration
+ Select appropriate microcontrollers, processors, and development tools
+ Develop and maintain system-level documentation and specifications
+ Ensure compliance with industry standards and safety regulations
+ Lead technical reviews and provide guidance to development teams
+ Evaluate and integrate new technologies and methodologies
+ Optimize system performance, power consumption, and memory usage
+ Support debugging and troubleshooting of embedded systems
+ Mentor junior engineers and promote best practices
+
+
+Requirements
+ Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field
+ 8+ years of experience in embedded systems development
+ Strong knowledge of C/C++ and real-time operating systems (RTOS)
+ Experience with microcontrollers, SoCs, and embedded Linux
+ Familiarity with hardware interfaces such as SPI, I2C, UART, and CAN
+ Proven experience in system architecture and design
+ Excellent problem-solving and analytical skills
+ Strong communication and leadership abilities
+ Experience with version control systems like Git
+ Knowledge of safety-critical systems and standards (e.g., ISO 26262, DO-178C) is a plus
+
+Potential interview questions 
+ Can you describe a complex embedded system you have architected?
+ What is your experience with real-time operating systems?
+ How do you approach hardware-software integration challenges?
+ What tools do you use for embedded system development and debugging?
+ Have you worked with safety-critical systems? If so, which standards?
+ How do you ensure code quality and maintainability in embedded projects?
+ What is your experience with low-power design techniques?
+ How do you stay updated with the latest trends in embedded systems?
+ Describe a time you led a cross-functional team on an embedded project.
+ What is your approach to system performance optimization?
+
+
+------------
+
+18. blog link: (https://www.expertia.ai/blogs/jd/embedded-architect-job-description-95097d)
+
+
+Embedded Architect Job Description Template
+As an Embedded Architect, you will be at the forefront of designing and developing cutting-edge embedded systems and software. You will collaborate with multidisciplinary teams to create innovative solutions and ensure the successful integration and functionality of embedded systems. The role demands a deep understanding of embedded system architecture, performance optimization, and robust software design.
+
+Responsibilities
+Design and develop embedded systems architecture
+Lead and mentor engineering teams in embedded system projects
+Collaborate with hardware engineers to integrate software with hardware components
+Conduct system-level performance analysis and optimization
+Develop and implement robust testing and validation procedures
+Ensure compliance with industry standards and regulatory requirements
+Document system architecture and design decisions
+Stay updated with the latest trends and advancements in embedded systems
+
+Qualifications
+Bachelor's or Master's degree in Electrical Engineering, Computer Science, or a related field
+Extensive experience in embedded systems design and development
+Proven track record of leading successful embedded projects
+In-depth knowledge of embedded software and hardware
+Experience with system-level architecture and performance optimization
+Strong analytical and problem-solving skills
+Excellent communication and team collaboration abilities
+Skills
+C/C++ programming
+Real-time operating systems (RTOS)
+Microcontroller and microprocessor architecture
+Hardware-software integration
+Embedded Linux
+Signal processing
+Debugging and profiling tools
+Version control systems (e.g., Git)
+
+--------------------
+
+19. link: (https://interviewguy.com/embedded-software-architect-job-description/)
+
+Job Descriptions
+Embedded Software Architect Job Description [Updated for 2026]
+
+Your primary responsibility will be to design and develop the software architecture for embedded systems.
+
+The Embedded Software Architect responsibilities include understanding system requirements, designing the software architecture, and overseeing the development and testing of the embedded software.
+
+Our ideal candidate has deep understanding of embedded systems, possesses strong problem-solving abilities, and has experience in C/C++ programming language.
+
+Ultimately, the role of the Embedded Software Architect is to create robust and scalable software architectures that support the needs of our innovative products.
+
+ 
+
+Responsibilities
+Design and develop the software architecture for embedded systems
+Understand and analyze system requirements
+Oversee the development and testing of the embedded software
+Provide technical leadership to the software development team
+Ensure the integration of the software with hardware components
+Create software verification plans and quality assurance procedures
+Document software design and functionality
+Maintain and upgrade existing embedded systems
+Ensure compliance with software design standards and methodologies
+Collaborate with stakeholders to identify and implement new software features
+
+
+
+Qualifications
+Proven experience as an Embedded Software Architect or similar role
+Excellent knowledge of C/C++ programming language
+Experience with embedded systems design and Real-Time Operating Systems (RTOS)
+Understanding of hardware/software integration
+Familiarity with software configuration management tools, defect tracking tools, and peer review techniques
+Proficiency in software architecture methodologies
+Ability to document complex software architectures
+MSc degree in Computer Science, Engineering or relevant field
+
+---------------
+
+
+20. link (https://www.jobed.ai/embedded-systems-architect)
+
+We are looking for an experienced Embedded Systems Architect to lead the design and development of embedded systems across a variety of applications. This role requires a deep understanding of hardware-software integration, real-time operating systems, and embedded software development. The ideal candidate will have a strong background in embedded systems engineering and a proven track record of architecting scalable and efficient embedded solutions. As an Embedded Systems Architect, you will collaborate with cross-functional teams including hardware engineers, software developers, and product managers to define system requirements and translate them into robust embedded architectures. You will be responsible for selecting appropriate hardware platforms, designing system-level software architecture, and ensuring that the embedded systems meet performance, reliability, and safety standards. You will also play a key role in evaluating new technologies, tools, and methodologies to improve the development process and product quality. Your expertise will guide the team in best practices for embedded software development, including code reviews, testing strategies, and documentation. This position requires excellent problem-solving skills, strong communication abilities, and a passion for innovation. You should be comfortable working in a fast-paced environment and capable of managing multiple projects simultaneously. Key success factors include the ability to think strategically, lead technical discussions, and mentor junior engineers. If you are passionate about embedded systems and enjoy working on cutting-edge technology, we encourage you to apply.
+
+
+Responsibilities
+ Design and define embedded system architectures for new products
+ Collaborate with hardware and software teams to ensure seamless integration
+ Select appropriate microcontrollers, processors, and development tools
+ Develop and maintain system-level documentation and specifications
+ Ensure compliance with industry standards and safety regulations
+ Lead technical reviews and provide guidance to development teams
+ Evaluate and integrate new technologies and methodologies
+ Optimize system performance, power consumption, and memory usage
+ Support debugging and troubleshooting of embedded systems
+ Mentor junior engineers and promote best practices
+
+
+Requirements
+ Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field
+ 8+ years of experience in embedded systems development
+ Strong knowledge of C/C++ and real-time operating systems (RTOS)
+ Experience with microcontrollers, SoCs, and embedded Linux
+ Familiarity with hardware interfaces such as SPI, I2C, UART, and CAN
+ Proven experience in system architecture and design
+ Excellent problem-solving and analytical skills
+ Strong communication and leadership abilities
+ Experience with version control systems like Git
+ Knowledge of safety-critical systems and standards (e.g., ISO 26262, DO-178C) is a plus
+
+
+---------------------
+
+
+21.
+Job Description
+Silicon Labs (NASDAQ: SLAB) is the leading innovator in low-power wireless connectivity, building embedded technology that connects devices and improves lives. Merging cutting-edge technology into the world's most highly integrated SoCs, Silicon Labs provides device makers the solutions, support, and ecosystems needed to create advanced edge connectivity applications. Headquartered in Austin, Texas, Silicon Labs has operations in over 16 countries and is the trusted partner for innovative solutions in the smart home, industrial IoT, and smart cities markets. Learn more at www.silabs.com.
+
+The Role
+
+We are looking for a hands-on Software Architect to shape the architecture of embedded software, Wi-Fi protocol stacks, low-level firmware, and Linux drivers for our next-generation Wi-Fi ICs.
+
+This is a unique opportunity to contribute to the architectural foundations of advanced wireless connectivity balancing execution today with a forward-looking vision of where our overall system, spanning both software and hardware, should be tomorrow.
+
+As part of a collaborative group of architects, you will work across execution, planning, and long-term strategy: defining architectures, guiding designs, and shaping the direction of our technology to align with evolving Wi-Fi standards and product needs.
+
+Responsiblities
+
+Execution
+
+Own software architecture and design, and guide implementations to align with architectural direction.
+Debug complex system-level issues and provide solutions with architectural insights.
+Perform code reviews from an architectural and system perspective to ensure scalability, performance, and maintainability.
+Planning
+
+Collaborate with engineering managers on JIRA top-level split, estimation, and backlog structuring to ensure feasibility and alignment with architectural goals.
+Provide technical input on schedules, dependencies, and integration risks.
+Broad and Long-Term Vision
+
+Shape the long-term architectural vision for embedded software, Wi-Fi protocol stacks, and Linux drivers.
+Contribute to Wi-Fi specifications and standards and track industry trends to influence product direction.
+Drive strategic architectural initiatives that position Silicon Labs as a leader in wireless connectivity.
+Advocate for open-source/Linux engagement, including upstream contributions where valuable.
+Ensure rigor in software quality by driving unit testing, functional testing, continuous integration, and verification practices across the team.
+Skills you'll need:
+
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field.
+12+ years of professional software development experience, including significant experience in an Architect role, with a strong focus on embedded systems, communication stacks
+Proven ability to define and evolve software architectures for complex embedded systems, making thoughtful trade-offs across performance, power, scalability, reliability, and maintainability.
+Strong knowledge of software architecture and design patterns, with the ability to apply them pragmatically to achieve the best architecture without unnecessary reinvention.
+Demonstrated expertise in documenting and communicating architectures and designs in a clear and structured way for engineering teams and stakeholders.
+Ability to provide logical reasoning and lead technical conversations, building consensus around the best architectural and design choices, and influencing across architects, engineering teams, and leadership.
+Deep experience in system-level thinking and HW/SW partitioning, including designing software for complex SoCs and hardware accelerators.
+Deep expertise in Wi-Fi protocols or other communication stacks.
+Solid understanding of Linux kernel architecture and device drivers, including upstreaming practices.
+Hands-on proficiency in C development and low-level debugging at system and driver layers.
+Strong exposure to CI/CD pipelines, integration testing, and performance benchmarking frameworks.
+The following qualifications will be considered a plus:
+
+Contributions to open-source projects (Linux kernel, networking stacks, etc.).
+Familiarity with real-time operating systems (RTOS) alongside Linux.
+Knowledge of security in embedded software, including secure boot, cryptography, and trusted execution environments.
+Understanding of Agile/Scrum methodologies and experience collaborating in iterative development environments.
+
+
+--------------------
+
+22. 
+
+The Role
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $12 billion in FY22 and approximately 25,000 people globally working alongside 125,000 global customers, ADI ensures today’s innovators stay Ahead of What’s Possible.
+
+Analog Devices (NASDAQ: ADI) designs and manufactures semiconductor products and solutions. We enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect. Analog Device's technology can be found at the cutting edge of new technologies that are transforming the world in automotive, communications, aerospace, industrial and healthcare markets.
+
+Analog Devices, Inc. is looking for a Principle Embedded Systems Software Architect to join our Software Architecture Team team, part of our Software & Security Group (SSG). This is an opportunity to join a growing team that is defining software and systems to make it easy for our customers to adopt and use our industry leading technologies across all of ADIs products. The successful candidate will be a strong leader with excellent communication and technical skills who works well in a diverse environment to architect and set the direction of software development at ADI. The individual should be self motivated and be able to work across discplines with a strong focus on HW/SW co-design (able to work with System & HW architects to define software programming interfaces at the hardware level), help define overall software architectures and scope software effort, and engage customers to learn about their challenges and to evolve our solutions to meet their needs.
+
+Functions & Responsibilities
+
+You will design embedded software architectures for new electronic products ranging from microcontroller-based solutions to heterogeneous application processing systems.
+You will work with open source communities such as Linux and Zephyr to integrate low level drivers, firmware, and other embedded enablement into these open source communities.
+You will participate in hardware/software co-design activities for new device development
+You will create/define the appropriate API’s and abstraction layers that allow the software architecture to scale across a wide portfolio of products.
+You will collaborate with team members, including hardware designers, to identify software related requirements and develop corresponding software design strategies or architecture that meets those requirements.
+You will participate in the bring-up of new custom embedded processor hardware with support from hardware designers.
+Job Requirements
+
+You must have worked with silicon HW architects to define software programming interfaces down to the register level
+You must have demonstrated skill in developing original designs with C/C++ in embedded environments including bare-metal, multi-threaded RTOS, and embedded operating systems.
+You must have experience with microcontroller and/or embedded processing platforms such as ARM and RISC-V. Experience with DSP and/or FPGA based SoCs is a plus. Experience with analog components is a plus.
+You must have a strong understanding of embedded software design and architectural concepts as well as the integration between firmware and hardware.
+You must have experience in open source software development with communities such as Linux, Zephyr, and FreeRTOS, and are comfortable participating and contributing in these communities
+You must have a strong understanding of software development tools and methodologies used in the context of embedded systems. Familiarity with source control via established systems such as Git.
+You must have demonstrated skill in independently using electronics lab equipment to develop/troubleshoot low-level drivers and hardware integration for interfaces such as I2C, SPI, UART, USB, etc.
+You must possess good interpersonal skills and have the ability to work between multiple teams such as digital design teams and business units.
+Educational Requirements
+
+A 4-year degree or equivalent experience in Computer Engineering, Electrical Engineering, Computer Science or a related engineering discipline.
+A minimum of 10 years of embedded software focused development or equivalent experience
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+
+
+-----------------------
+
+
+23.
+
+Embedded Firmware Architect Job Description Template
+As an Embedded Firmware Architect, you will lead the design and development of firmware for embedded systems. You will be responsible for ensuring the firmware's performance, reliability, and scalability, while working closely with hardware engineers, software developers, and other stakeholders.
+
+
+Responsibilities
+Design and develop embedded firmware for various systems.
+Lead firmware architecture design and ensure alignment with product requirements.
+Collaborate with hardware engineers to define requirements and troubleshoot issues.
+Optimize firmware for performance, power consumption, and memory usage.
+Review and improve existing codebases to enhance system performance.
+Develop and maintain documentation related to firmware architecture and design.
+Stay updated with the latest industry trends and technologies in embedded systems.
+Qualifications
+Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field.
+10+ years of experience in embedded firmware development.
+Proven experience in designing and optimizing embedded firmware architectures.
+Strong knowledge of C/C++ programming languages.
+Experience with real-time operating systems (RTOS) and microcontroller programming.
+Familiarity with hardware debugging tools and techniques.
+Excellent problem-solving skills and attention to detail.
+Skills
+C/C++
+RTOS
+Microcontroller Programming
+Firmware Optimization
+Hardware Debugging
+Embedded Systems Design
+Code Review
+Documentation
+Troubleshooting
+
+---------------
+
+24.
+
+I understand that this is for your R&D work. While I cannot deploy automated scraping scripts to extract raw, live job postings directly from boards like LinkedIn or Indeed due to platform access restrictions, I can do the next best thing for your research.
+
+Based on my knowledge base of industry standards and job market data, I have synthesized a comprehensive, highly accurate composite of what standard Job Descriptions (JDs) look like right now for an Embedded Software Architect with 9-10 years of experience.
+
+This composite covers the exact raw technical requirements, responsibilities, and architectural expectations you would find in the wild.
+
+Composite JD: Embedded Software Architect (9-10 Years Experience)
+Role Title Variations: Principal Embedded Software Architect / Lead Firmware Architect / Senior Embedded Systems Architect
+Experience Level: 9–12 Years
+
+1. Role Summary / Objective
+We are seeking a highly experienced Embedded Software Architect to drive the system-level design, hardware/software partitioning, and technology roadmap for our next-generation embedded products. In this role, you will transition complex product requirements into scalable, robust, and secure firmware architectures while mentoring a team of senior and mid-level engineers.
+
+2. Core Responsibilities
+Architecture & Design: Define the end-to-end embedded software architecture, including hardware-software interfaces, RTOS selection, memory maps, and boot sequence.
+
+System Partitioning: Collaborate closely with Hardware/Electronics engineering to define MCU/MPU requirements, pinouts, and computing power needs based on system constraints.
+
+Proof of Concept (R&D): Lead the evaluation of new microcontrollers, toolchains, and third-party libraries. Develop rapid prototypes to mitigate technical risks.
+
+Code Quality & Standards: Establish and enforce firmware coding standards (e.g., MISRA C/C++), static analysis integration, and rigorous code review processes.
+
+Security & Over-The-Air (OTA): Design secure bootloaders, cryptographic key storage, and robust OTA update mechanisms.
+
+Technical Leadership: Act as the ultimate technical escalation point for complex debugging issues (e.g., race conditions, memory leaks, hard faults). Mentor firmware engineers.
+
+3. Required Technical Qualifications
+Languages: Expert-level proficiency in C and C++ (C++11/14/17) in resource-constrained environments.
+
+Operating Systems: Deep expertise with RTOS (FreeRTOS, Zephyr, VxWorks, QNX) and bare-metal programming. Experience with Embedded Linux (Yocto/Buildroot) is highly preferred.
+
+Hardware/Processors: Extensive experience with 32-bit/64-bit architectures, specifically ARM Cortex-M (M0/M4/M7) and Cortex-A series.
+
+Protocols & Interfaces: Mastery of low-level peripheral buses (I2C, SPI, UART, CAN, I2S) and high-speed interfaces (Ethernet, USB, PCIe, SDIO).
+
+Tooling & Debugging: Hands-on experience with logic analyzers, oscilloscopes, JTAG/SWD debuggers (Segger, Lauterbach).
+
+DevOps for Embedded: Strong background in setting up CI/CD pipelines for hardware-in-the-loop (HIL) testing, using tools like Jenkins, GitLab CI, Docker, and Python for test automation.
+
+4. Domain-Specific Requirements (Often split by industry)
+(Note: Raw JDs usually focus heavily on one of the following depending on the company)
+
+If Automotive: Strong knowledge of ISO 26262 (Functional Safety), AUTOSAR architecture, automotive Ethernet, and CAN FD.
+
+If IoT/Consumer: Expertise in low-power optimization, Bluetooth Low Energy (BLE), Wi-Fi (802.11), cellular (LTE-M/NB-IoT), and MQTT/CoAP protocols.
+
+If Medical: Familiarity with IEC 62304 software lifecycle processes and FDA regulatory compliance.
+
+5. Soft Skills & Leadership Expected
+Ability to translate high-level business requirements into detailed technical specifications (UML, sequence diagrams, architecture documentation).
+
+Experience leading Agile/Scrum ceremonies from a technical perspective.
+
+Strong stakeholder management skills, bridging the gap between product management, hardware, and cloud/backend teams.
+
+------------
+
+
+25.
+
+Description:
+The role involves defining and owning the software architecture for integrating sensor firmware with an Adaptive AUTOSAR-based middleware environment. It includes leading technical discussions and design alignment with platform teams to ensure compatibility, security, and performance.
+
+Required Qualifications & Skills:
+
+Over 10 years of experience in embedded C++ software development, with significant experience in Adaptive AUTOSAR and complex system integration.
+
+Proven experience architecting multi-threaded C++11/14 applications for Embedded Linux or QNX on ARM-based SoCs.
+
+Deep understanding of AUTOSAR architecture, software design patterns, and middleware integration.
+
+Expertise in secure communication protocols, cryptographic key handling, and in-vehicle network security.
+
+Familiarity with RTOS, Ethernet, and hardware abstraction layers.
+
+Bachelors or Masters degree in Electrical Engineering, Computer Engineering, or a related field.
+
+------------
+
+26.
+
+Role: Embedded Software Architect (C/C++) [HPC AI]
+
+Description:
+Own, define, and drive exploration and design of our next generation runtime software involving multi-heterogeneous devices in high-performance computing (HPC) SoCs. Participate and lead in the software architecture design of the runtime software across multi-device and heterogeneity. Apply code optimization techniques, ensuring efficient and optimized performance of the runtime software components
+
+Required Qualifications & Skills:
+
+10 years of embedded software design and development on SoCs and/or ASICs.
+
+Great coding skills in C/C++.
+
+Knowledge of SW architectural patterns (layered/plugin/event-driven/microkernel).
+
+Good knowledge of RTOS and/or Linux OS.
+
+Experience with heterogeneous multi-device systems involving GPU/NPU/FPGA.
+
+Knowledge of debuggers (LLDB, GDB) and profilers on heterogeneous hardware systems.
+
+Bonus: Knowledge of internals of inference engines like TFLite, OpenVINO runtime, ONNX runtime, TVM runtime. Knowledge of high-performance domain-specific languages (SYCL/CUDA/OpenCL).
+
+-----------------------------
+
+
+27.
+Description:
+Define and implement software architecture for high-throughput packet switching systems, incorporating IP TCP/UDP protocols and advanced routing capabilities. Collaborate with hardware engineers to develop and optimize FPGA-based solutions for critical flight systems. Design and implement robust fault management systems to ensure mission success in the challenging space environment.
+
+Required Qualifications & Skills:
+
+10+ years of experience in embedded software development, with at least 5 years in architectural roles.
+
+Demonstrated experience with flight software or payload systems in aerospace applications.
+
+Strong knowledge of network protocols including IP, TCP/UDP, and routing technologies.
+
+Experience with FPGA integration and hardware/software co-design.
+
+Experience designing and implementing fault-tolerant systems with comprehensive error detection and recovery mechanisms.
+
+Familiarity with communication protocols used in space systems (e.g., SpaceWire, CAN, MIL-STD-1553).
+
+----------------------
+
+
+28.
+
+Description:
+Lead the design and architecture of complex embedded systems. This role involves working closely with engineering teams to define and guide the overall software architecture, ensuring it meets performance, scalability, and security requirements for embedded applications across various hardware platforms.
+
+Required Qualifications & Skills:
+
+Minimum of 10 years of related experience.
+
+Strong understanding of embedded Linux systems, RTOS, and microcontroller architectures.
+
+In-depth knowledge of embedded system architecture, including memory management, scheduling, and inter-process communication.
+
+Solid understanding of high-performance I/O mechanisms, including: epoll, select, poll, Non-blocking I/O, Asynchronous I/O.
+
+Knowledge of package processing flow based on Linux TCP/IP stack, including Netfilter and Conntrack.
+
+Knowledge of software packaging, API design, and Makefiles in complex build environments.
+
+Preferred: Experience with high-performance networking frameworks such as DPDK, VPP, XDP/eBPF.
+
+-------------------------
+
+29.
+Role: Principal Embedded Software Architect – Edge AI & Autonomous Systems
+
+Location: Hybrid / Remote
+
+
+About Us 🚀
+We are building the next generation of autonomous runtime software. You will own, define, and drive the exploration and design of our high-performance computing (HPC) SoCs across heterogeneous devices. If you love optimizing bare-metal code and scaling complex robotic architectures, we want to talk!
+
+What You’ll Do:
+
+Own the end-to-end software architecture for real-time, multi-device ecosystems.
+
+Drive hardware/software partitioning decisions for multi-core CPU/DSP/NPU/FPGA setups.
+
+Design robust middleware integration, ensuring seamless communication across microservices and hardware abstraction layers.
+
+Champion code optimization, MISRA C/C++ standards, and rigorous CI/CD pipeline automation (Jenkins/GitLab CI).
+
+Mentor senior engineers and collaborate directly with hardware bring-up teams to verify delivered performance.
+
+What You Bring to the Table:
+
+10+ years of embedded software design and development on SoCs/ASICs.
+
+Elite-level proficiency in modern C/C++ (C++14/17) and Python for test automation.
+
+Deep experience with RTOS (Zephyr, FreeRTOS, QNX) and custom Embedded Linux (Yocto/Buildroot).
+
+Hands-on architectural experience with middleware frameworks (e.g., ROS/ROS2, DDS, or Adaptive AUTOSAR).
+
+Familiarity with deploying AI/ML workloads at the edge (experience with inference engines like TFLite, TensorRT, or ONNX is a massive plus).
+
+Knowledge of JTAG debuggers, logic analyzers, and profilers (LLDB, GDB) on heterogeneous systems.
+
+Benefits: Equity package, unlimited PTO, comprehensive health/dental, and remote flexibility.
+
+-----------------------------------
+
+30. 
+Job Description:
+We are seeking a highly motivated Embedded Software Architect to lead the design and deployment of critical infrastructure components. The ideal candidate must have a proven track record of transitioning system-level requirements into scalable firmware architectures.
+
+Roles and Responsibilities:
+
+Define component specifications and interactions within the embedded platform, documenting all UML, sequence diagrams, and architecture designs.
+
+Lead hardware-software integration, managing memory maps, boot sequences, and OTA (Over-The-Air) update mechanisms.
+
+Implement robust fault management systems with comprehensive error detection and recovery.
+
+Manage software packaging, API design, and Makefiles in complex build environments.
+
+Perform low-level debugging using oscilloscopes, probes, and TRACE32/Segger tools.
+
+Ensure strict adherence to coding standards, conduct meticulous code reviews, and provide technical guidance to a team of 5-8 developers.
+
+Must-Have Skills:
+
+9-12 yrs of core embedded software development experience.
+
+Master-level expertise in Embedded C and C++ programming languages.
+
+Solid understanding of bare-metal architectures and real-time operating systems (RTOS).
+
+Strong grasp of hardware interfaces and communication protocols: I2C, SPI, UART, CAN, Ethernet (TCP/UDP, IPv4/IPv6).
+
+Solid understanding of high-performance I/O mechanisms (epoll, select, poll, Non-blocking I/O).
+
+Good-to-Have Skills:
+
+Experience with functional safety standards (IEC 61508, ISO 26262).
+
+Familiarity with cryptographic key handling and secure bootloaders.
+
+Scripting knowledge (Shell/Python).
+
+Role Category: Software Development
+Industry Type: Electronic Components / Semiconductors / Automotive
+Department: Engineering - Hardware & Networks
+Employment Type: Full Time, Permanent
+Education: * UG: B.Tech/B.E. in Electronics/Telecommunication, Computers
+
+PG: M.Tech in Electronics/Telecommunication, Computers
+
+Key Skills:
+Embedded C C++ RTOS System Architecture Microcontrollers Linux Firmware Development SPI I2C CAN Hardware Software Integration Device Drivers
+
+
+
+
+
+---------------------------
+
+31.
+
+About the role
+
+Looking for someone who has actually built and shipped embedded systems at scale. This is not a design-only role — you’ll be expected to own architecture and still go deep into code, debugging, and system bring-up when needed.
+
+
+What you’ll do
+Define end-to-end firmware architecture across multiple embedded products
+Own system-level design decisions (MCU/MPU selection, RTOS vs bare metal, memory layout, power strategy)
+Work closely with hardware teams during board bring-up and validation
+Design modular, reusable firmware components and platform layers
+Review and unblock low-level development (drivers, bootloaders, BSP)
+Handle performance bottlenecks, memory constraints, and real-time issues
+Define OTA, firmware upgrade, and rollback strategies
+Drive coding standards, reviews, and release practices
+Debug complex field issues (race conditions, timing bugs, hardware interaction issues)
+
+
+What we expect
+Strong C/C++ (no surface-level knowledge)
+Deep understanding of RTOS (FreeRTOS / Zephyr / ThreadX etc.)
+Experience with bare-metal systems
+Solid understanding of embedded Linux is a plus
+Hands-on with I2C, SPI, UART, CAN, Ethernet
+Experience in bootloaders, BSP, and board bring-up
+Good understanding of memory (stack/heap), DMA, interrupts
+Experience in debugging tools (JTAG, logic analyzer, oscilloscope)
+Familiarity with OTA, firmware security, secure boot
+Has worked on shipped products (not just prototypes)
+
+
+----------------------
+
+32.
+Embedded Software Architect – Connected Devices
+
+Responsibilities
+Architect firmware for IoT/connected systems end-to-end
+Define communication stack (MQTT, HTTP, CoAP, BLE, etc.)
+Work on device-cloud integration along with backend teams
+Design reliable update mechanisms for large-scale deployments
+Optimize firmware for low power and constrained environments
+Ensure system stability under unreliable networks
+Lead cross-team technical discussions (hardware, cloud, mobile)
+Own technical roadmap for firmware stack
+
+
+Requirements
+9+ years in embedded firmware development
+Experience with IoT stacks and device connectivity
+Strong networking fundamentals (TCP/IP, sockets, TLS)
+Experience with embedded Linux or hybrid systems
+Knowledge of security (certificates, encryption, secure storage)
+Experience with production-grade deployments (10k+ devices is a plus)
+
+
+------------------
+
+
+33.
+Embedded Software Architect
+
+Experience: 9–14 Years
+Location: Bangalore / Pune / Hyderabad
+Employment Type: Full Time
+
+
+Job Description
+
+We are hiring Embedded Software Architect with strong experience in firmware design and development for embedded systems. The candidate will be responsible for defining software architecture, leading development teams, and ensuring high-quality delivery of embedded solutions.
+
+
+Key Responsibilities
+
+Define software architecture for embedded systems and firmware platforms
+Lead design and development of device drivers, BSP, and middleware
+Work closely with hardware teams for board bring-up and debugging
+Analyze system requirements and convert into technical specifications
+Review code and ensure adherence to coding standards
+Optimize system performance, memory usage, and power consumption
+Handle debugging of complex issues in embedded environments
+Support product lifecycle from concept to production
+
+
+
+Required Skills
+
+Strong programming in C and C++
+Experience with RTOS (FreeRTOS, VxWorks, ThreadX)
+Hands-on with communication protocols (I2C, SPI, UART, CAN)
+Experience in embedded Linux is preferred
+Knowledge of bootloaders and firmware upgrade mechanisms
+Familiarity with debugging tools (JTAG, Oscilloscope, Logic Analyzer)
+
+
+Preferred Skills
+
+Experience with Yocto / Buildroot
+Knowledge of networking protocols (TCP/IP, MQTT)
+Exposure to secure boot and firmware encryption
+
+
+---------------
+
+34.
+
+Job Description
+
+Looking for Embedded Architect to work on IoT-based products and connected devices. Candidate should have strong experience in embedded firmware along with device connectivity and cloud integration.
+
+
+Responsibilities
+
+Architect scalable firmware for IoT devices
+Design communication between device and cloud
+Work on OTA updates and remote device management
+Collaborate with backend and mobile teams
+Ensure system reliability and security
+
+
+Skills Required
+
+Strong C/C++ programming
+Experience with MQTT, HTTP, CoAP
+Knowledge of TLS/SSL and device security
+Experience with embedded Linux or RTOS
+Understanding of networking fundamentals
+
+
+---------------------
+
+35.
+ About the role
+
+We are looking for an experienced Embedded Software Architect who can take ownership of firmware architecture across products. This role involves working closely with hardware, product and cloud teams, and driving technical decisions from early design stages to production.
+
+This is not a pure design role — hands-on involvement in debugging, bring-up and performance tuning is expected.
+
+
+Key Responsibilities
+
+Define and own embedded software architecture across multiple modules
+Design firmware stack including drivers, BSP, middleware and application layers
+Work closely with hardware teams during board bring-up and validation phases
+Evaluate and select RTOS / OS based on system requirements
+Handle system-level design decisions (memory, power, performance trade-offs)
+Lead code reviews and ensure coding standards across teams
+Debug complex issues involving hardware-software interaction
+Drive firmware release cycles and support production deployments
+Mentor junior engineers and guide technical discussions
+
+
+Required Skills
+
+Strong programming experience in C and C++
+Hands-on experience with RTOS (FreeRTOS, ThreadX, VxWorks etc.)
+Experience with bare-metal systems and low-level development
+Strong understanding of communication protocols (I2C, SPI, UART, CAN, Ethernet)
+Experience with debugging tools (JTAG, Logic Analyzer, Oscilloscope)
+Good understanding of memory management, interrupts, DMA
+Experience in bootloader development and firmware upgrades
+
+
+Good to Have
+
+Experience with embedded Linux / Yocto
+Exposure to OTA updates and remote device management
+Understanding of security (secure boot, encryption)
+Experience working on connected / IoT devices
+
+
+What we are looking for
+
+Someone who has worked on real products (not just POCs)
+Strong debugging mindset and ability to handle field issues
+Ability to take ownership and drive architecture decisions
+Good communication and cross-team collaboration
+
+-----------------
+
+36.
+Job Description
+We are looking for Embedded Software Architect for product development team. Candidate should have strong experience in firmware design and system architecture and should be able to work with hardware team closely.
+
+Responsibilities
+
+Define software architecture for embedded systems
+Work on firmware development including drivers BSP and middleware
+Board bring up and hardware debugging
+Handle performance and memory optimization
+Code review and technical guidance to team
+Debugging complex issues in real time environment
+Work with cross functional teams
+
+Skills Required
+
+Strong C and C++
+RTOS experience FreeRTOS ThreadX VxWorks
+Communication protocols I2C SPI UART CAN
+Debugging tools JTAG logic analyzer oscilloscope
+Embedded Linux good to have
+
+Immediate joiners or 30 days preferred
+
+-----------------------
+
+37.
+
+Job Description
+Hiring for IoT based product company. Looking for candidate who has worked on connected devices and firmware architecture.
+
+Responsibilities
+
+Design and develop firmware architecture for IoT devices
+Work on MQTT HTTP communication
+OTA updates and remote device management
+Work with cloud and backend teams
+Optimize power and performance
+
+Skills
+
+Strong C C++
+Networking basics TCP IP sockets
+RTOS or embedded Linux
+Security basics TLS certificates
+
+AWS IoT exposure is good to have
+
+------------
+
+38.
+
+Senior Embedded Software Architect
+
+Location: Hyderabad
+Experience: 10 to 15 years
+
+Role
+Looking for senior profile to lead embedded software architecture and firmware development.
+
+Responsibilities
+
+Define system architecture and design
+Lead team and handle technical discussions
+Work on board bring up and hardware integration
+Debugging and performance tuning
+Code reviews and quality control
+
+Skills Required
+
+Strong embedded C C++
+Microcontrollers and SoC knowledge
+RTOS and bare metal
+Hardware interfaces SPI I2C UART
+
+------------------
+39. 
+
+Embedded Firmware Architect
+
+Location: Chennai
+Experience: 9 to 13 years
+
+Job Description
+We are looking for Embedded Firmware Architect for consumer devices.
+
+Responsibilities
+
+Firmware design and architecture
+Drivers BSP development
+Performance optimization
+Debugging issues
+
+Skills Required
+
+C C++
+RTOS
+Embedded Linux
+Debugging tools
+
+
+--------------------------------
+
+
+40.
+
+Location: Hyderabad
+Experience: 10 plus years
+
+Job Description
+We have opening for Embedded Software Architect role. Looking for strong candidate in embedded firmware.
+
+Responsibilities
+
+Design and develop firmware architecture
+Work with cross teams
+Debugging issues
+Optimization
+
+Skills Required
+
+C
+RTOS
+Drivers development
+Hardware interfacing
+
+--------------------------------
+
+41.
+
+At SolarEdge (NASDAQ: SEDG), we're a global leader in smart energy technology, with over 4,000 employees, offices in 34 countries, and millions of installations worldwide.
+
+Our innovative solutions include solar inverters, battery storage, backup systems, EV charging, and AI-based energy management. We're committed to making clean, green energy the primary power source for homes, businesses, and beyond.
+
+With the growing demand for electricity, the need for smart, clean energy sources is constantly rising. SolarEdge offers amazing opportunities to develop your skills in a multidisciplinary environment, covering everything from research and development to production and customer supply. Work with talented colleagues, tackle exciting challenges, and help create a sustainable future in an industry that's always evolving and innovating. Join us and be part of a company that values creativity, agility, and impactful work.
+
+Our R&D division is growing globally, as a IoT/IoE Firmware Engineer, you will be a crucial member of the SolarEdge India R&D team in Bangalore, responsible for developing embedded systems and firmware for our advanced solar energy products. You will play a key role in designing, implementing, and testing embedded software, ensuring its reliability, performance, and seamless integration with our hardware platforms.
+
+Responsibilities:
+
+Design, develop, test and maintain code for modern embedded Linux based IOT devices, both in low level and system level development.
+Collaborate with cross-functional teams, including Embedded firmware/hardware engineers, software developers, and product managers, to define system requirements and architect innovative embedded solutions.
+Develop and deploy secure, scalable, and reliable IoT/IoE architectures.
+Interface with sensors, actuators, and microcontrollers, Collect, process, and analyze sensor data using advanced tools
+Develop and implement efficient and reliable embedded software in C and C++ for Embedded Linux system used in SolarEdge products"
+Troubleshoot and debug embedded software and hardware interactions, identifying and resolving issues throughout the product development lifecycle.
+Participate in code reviews, providing constructive feedback to team members and ensuring code quality and adherence to coding standards.
+
+Requirements:
+Bachelor's (B.E./B.Tech.) or master’s degree (M.E./M.Tech.) in Computer Science / Software Engineering/Information Technology (Preferred), Electrical and Electronics Engineering / Electronics and Communication Engineering.
+Strong programming and application coding skills using C++
+2+ years of experience in IoT/IoE embedded systems design and firmware development.
+Experience in user space application development in Linux
+Experience with Python is desirable.
+Proven experience in building complex, high-performance systems and applications.
+Proficiency in using modern development tools and version control systems (e.g., Git, Docker)
+Ability to identify, troubleshoot hardware and software technical problems.
+Strong debugging and Analytical thinking, problem-solving skills
+Excellent communication and teamwork skills to collaborate effectively with cross-functional teams.
+Experience in the renewable energy or power electronics industry is an added advantage. Provide technical support and troubleshooting assistance during product development. Stay up to date with the latest advancements in power electronics and firmware technologies.
+Drive results within constraints of Product life cycle development and production at scale.
+Results-oriented mindset with a focus on achieving tangible and measurable results.
+SolarEdge recognizes its talented and diverse workforce as a key competitive advantage. Our business success is a reflection of the quality and skill of our people. SolarEdge is committed to seeking out and retaining the finest human talent to ensure top business growth and performance.
+
+
+
+-------------------
+
+42.
+
+We aspire to be world-leader in innovative telecom and security solutions by offering cutting-edge, high-performance telecom and security solutions to business customers.
+
+
+Our Mission is simple. To prove that Indian engineers can design, develop, and manufacture world-class technology products for customers across the world, right from India. Join our team of like-minded engineers, applied researchers, and technocrats with the will, courage, and madness to achieve this mission!
+
+
+Why work at Matrix
+
+Matrix fully integrates software and hardware across its products. Engineers here collaborate more effectively to create solutions that solve real problems and make an impact. We are responsible for every nut, bolt, and line of code in our products!
+
+As an engineer, your involvement will be critical in the entire lifecycle of a product - right from ideation-development-production-deployment. Get to feel the sense of accomplishment that comes with creating something that solves a real and pressing problem and is used by scores of customers.
+
+
+Job Description
+
+Role : Software Architect - Embedded
+
+Function : Embedded Software Development
+
+Work Location : Vadodara, Gujarat
+
+
+Who are you
+
+You are an Energetic, Passionate, and Innate Software technology leader having excellent knowledge of designing and developing Linux based embedded products and having an experience of 8+ years with at least 4-5 years of experience of technical leadership.
+
+You possess very good knowledge of Software Architecture and Design, Design Patterns, OOPS concepts, Data Structures and Algorithms, Messages Queues, Multi-threading applications, Networking concepts and software security. You are competent to design, develop and deliver Software applications and embedded products.
+
+
+Experience : 8+ Years
+
+Qualification : B.E/ B.tech/ M.E/ M.tech (EC, Electronics, Electronics & Telecommunication, Computer Engineering, CSE) or related field
+
+
+Technical Skills Required:
+
+Hands-on experience in C/ C++, Embedded C (Very strong exposure in C Programming concepts).
+Linux, Command of Linux OS.
+IPC – Inter-Process Communication exposure (Multithreading and Socket Programming).
+Working experience or Knowledge with Microprocessors like Arm 7/9, Cortex A8/A15, Qualcomm, Intel, IMX,NXP etc will be a huge plus.
+You have sound knowledge and hands-on experience in one or more Technologies/Platform like Socket Programming, Multi-Threading, ONVIF/RTSP, Video codecs H264/H265, Video Parsing of H264/H265, Image processing, Embedded Web Server, BLE, WIFI, RS485. UART, Push Notification (FCM), VoIP (SIP & RTP).
+You possess good knowledge and working experience in one or more Tech Stacks/Frameworks like Ffmpeg, Gstreamer, QT/QML, LIVE555, OpenCV(Image Processing), Networking Fundamentals, Basic Linux commands.
+You are proficient in at least two or more languages from among C, JAVA, Python, C++, HTML/CSS, JQuery/Javascript.
+You take complete ownership of timely product delivery with impeccable software quality.
+You have experience in building, leading, and managing multi-engineer project teams.
+You have the ability to navigate the teams through fast changing market needs.
+You possess strong people leadership skills in growing/nurturing/mentoring the young engineers.
+You are a motivated problem solver who can accurately document and communicate issues, can present the problem and solution in a short and crisp manner without taking into circles.
+You have a good understanding of JIRA, Confluence, SVN, Fisheye, Crucible, Sonar/Parasoft/LDRA and Nessus/Nexpose.
+
+How your day might look like
+
+Drive the design, strategy, and execution of software development projects to support product roadmaps. Select best technologies to build a product to serve the customer use cases.
+Ensure that the engineering team understands the business direction, customer requirements in detail and how each individual engineer’s work contributes towards the big picture of the product’s success and in turn company’s success.
+Work with development teams and product managers to ideate a solution.
+Collaborate and prioritize Epics/Stories with Product Owners and Product Managers on new products and new features and ensure deadlines are met within the scrum teams.
+Attract, Hire, Retain, motivate and mentor the software engineering teams.
+Build the necessary skills in the team either by training the existing resources on new areas or hiring new members in the team.
+Validate important design decisions that lead to technical debt or increase in project cost or delays in project deliveries.
+Increase the Velocity of development through operational excellence.
+
+-------------------
+
+43.
+About Us
+At Kohler, our mission is to help people live gracious, healthy, and sustainable lives. We believe that empowering our associates is essential to making this vision a reality. That’s why we invest in personal and professional growth, encourage collaboration across teams and functions, and offer a comprehensive wellness package that supports the well-being of every team member.
+
+Kohler is an equal opportunity employer. Along with competitive compensation and benefits, we offer something more enduring—a legacy built on bold innovation, creative excellence, and a deep commitment to our people and communities. Learn more about our culture and career opportunities at www.kohler.co.in/careers.
+
+Our approach to hiring reflects our commitment to Global Inclusion. We recruit, hire, and promote qualified individuals in all roles without regard to race, religion, age, sex, sexual orientation, gender identity or expression, marital status, national origin, or disability. If you are an individual with a disability and require reasonable accommodation during the recruitment process, please let your recruiter know so we can support you appropriately.
+
+Embedded Architect
+for this exciting opportunity.
+Mandatory Skills
+Architect, embedded system design, Embedded Linux, Firmware Architect,
+
+Location
+Pune, Maharashtra, India
+
+Experience
+15 to 25 years
+
+
+
+---------------------------
+
+44.
+
+Job title-Embedded Software Design (motor controller)
+
+Location- Pune
+
+Experience- 2-4 yrs
+
+Work mode-WFO
+
+Must have-
+
+Strong understanding of motor types: IPM, SPM, PMSM, BLDC, Axial Flux motors.
+
+Knowledge of motor control algorithms:
+
+Field Oriented Control (FOC)
+
+PWM control
+
+Maximum Torque Per Ampere (MTPA)
+
+Field Weakening
+
+Experience with MATLAB/Simulink for control system design.
+
+Programming skills in C/C++ and MATLAB.
+
+About the role-
+
+We are seeking a Motor Control Software Engineer responsible for designing, developing, and validating control algorithms and embedded software for electric vehicle (EV) motor controllers. The role involves working with advanced motor control strategies, embedded systems, and vehicle propulsion integration to ensure efficient, reliable, and high-performance motor operation for EV and special-purpose applications.
+
+Roles and responsibilities-
+
+Design and develop motor control algorithms using MATLAB/Simulink.
+
+Implement motor control algorithms on DSPs and microcontrollers using C/C++.
+
+Develop control strategies for motors such as BLDC, PMSM, SRM, and Axial Flux motors.
+
+Implement advanced control techniques such as Field Oriented Control (FOC), PWM, MTPA, and Field Weakening.
+
+Design embedded systems including microcontroller selection, sensor interfacing, and hardware-software integration.
+
+Integrate motor controller software with vehicle systems such as BMS, VCU, and propulsion components.
+
+Perform simulation, testing, and validation in both simulated and real-world environments.
+
+Optimize system performance for efficiency, reliability, cost, weight, and quality.
+
+Conduct engineering analysis including DFMEA and Fault Tree Analysis.
+
+Ensure compliance with automotive standards and functional safety requirements (ISO 26262).
+
+Prepare technical documentation including design specifications, test plans, and reports.
+
+Track emerging trends in EV technologies, motor control algorithms, and embedded systems.
+
+Required Qualifications
+Bachelor’s / Master’s degree in Electronics, Electrical, ENTC, or related engineering field.
+
+2–4 years of experience in motor controller design or embedded control systems.
+
+
+---------------------
+
+45.
+Job Description
+We are seeking a skilled Lead Software Architect specialized in Windows & Linux application development to join our dynamic team. The ideal candidate should have a strong foundation in designing software architecture for real-time systems and a proven track record of developing efficient and robust applications.
+
+
+Responsibilities
+Lead the design and development of high-performance software architectures for real-time systems (Robotic & Navigation Systems).
+Collaborate with cross-functional teams, including robotics, imaging, navigation and AI to understand project requirements and design software architectures.
+Implement AI & Edge computing solutions to optimize the performance of real-time processing for engineering teams.
+Develop high-performance code in C/C++ for Windows & Linux environments.
+Conduct thorough code reviews to ensure code quality, adherence to coding standards, and maintainability.
+Skills
+Solid understanding and prior experience in real-time systems and edge computing.
+Should have strong experience in developing real-time applications using Qt or similar platforms.
+Strong proficiency in C++ & Python programming languages.
+Competent in network protocol stack and implementations using C++.
+Designing user interfaces and developing back-end services.
+Profiling and optimizing code for performance.
+Strong experience in GIT tools, project management tools.
+Qualifications
+Minimum 10+ years’ experience in software application development.
+Bachelor's or Master's degree in Computer Science, Information Science, Software Engineering, or a related field.
+
+
+
+-----------------
+
+
+
+
+
