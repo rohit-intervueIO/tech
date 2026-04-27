@@ -1,5 +1,1034 @@
 # Physical Design Engineer - Job Descriptions
 
+
+1. 
+
+About the job
+This role is about owning the silicon journey from floorplan to signoff.
+
+5-8 years in physical design and SoC implementation 
+Strong experience in Cadence tools: Innovus, Tempus, Voltus, Quantus 
+Hands-on with floorplanning, PnR, STA, and EM/IR closure 
+Proven ability to meet aggressive PPA targets 
+Experience in clock tree, routing optimization, and extraction 
+Strong understanding of ASIC design flow and signoff 
+Exposure to automation and flow improvements 
+Strong collaboration and execution mindset 
+
+If PPA targets excite you more than scare you, this one's for you.
+
+Requirements
+
+Physical Design Engineer | ASIC Physical Design Engineer (PnR/STA)
+
+----------------
+
+2.
+About Eridu
+
+Eridu India Private Limited, a wholly owned subsidiary of Eridu Corporation, Saratoga, California, USA, is looking to hire highly motivated and talented professionals for its R&D center in Bengaluru to join our world-class team.
+
+Eridu is a Silicon Valley-based hardware startup pioneering infrastructure solutions that accelerate AI data centers to deliver Faster AI. Today’s AI performance is frequently limited by communication bottlenecks. Eridu introduces multiple industry-first innovations across silicon, packaging, software, and systems to deliver an order of magnitude improvement in performance and unlock greater GPU utilization to speed training job completion times and tokens-per-second for more profitable inference. We do this while simultaneously reducing capital and power costs and improving reliability.
+
+The company’s solutions and value proposition have been widely validated by leading hyperscalers.
+
+Eridu has raised over $200M to date including its most recent, oversubscribed Series A round. The company is led by a veteran team of Silicon Valley executives who have delivered multiple billion dollar product lines and led multiple companies to billion dollar exits, including serial entrepreneur Drew Perkins, co-founder of Infinera (NASDAQ: INFN), Lightera (acq. by Ciena), Gainspeed (acq. by Nokia) and Mojo Vision (the world’s leading micro-LED company). The company is in execution mode and has a world-class engineering team with decades of experience in state-of-the-art silicon, packaging, optics, software, and systems. Eridu is working with best-in-class supply chain partners including silicon, packaging and systems.
+
+Visit our website eridu.ai to learn more.
+
+Responsibilities
+
+Define the Physical Assembly of SOC. involving all aspects of physical design functions such as P&R, timing, floorplan, clocking, electrical analysis, and power.
+Proficiency in Synthesis design constraints (SDC).
+Design and Architect Top Level and block Level Floor planning of the entire SoC.
+Sound Proficiency in either Innovus or Synopsys Fusion Compiler required. Proficiency in synthesis, Floor planning Power Planning and Timing closure are required.
+Prior experience with large skew optimized clock tree designs like H-Tree preferred. Clock Grid exposure is a plus.
+Work extensively with Micro-architects to perform feasibility studies and explore performance, power & area (PPA) tradeoffs for design closure.
+Develop physical design methodologies and customize recipes across various implementation steps to optimize PPA.
+Work with a multi-functional engineering team to implement and validate physical design by running all signoff flows such as Timing, Power, EM/IR, PDV.
+
+-----------
+
+3.
+
+About the job
+Job Title: Physical Design Engineer
+
+Job Type: Onsite
+
+Location: Bengaluru
+
+Experience: 4+ Years
+
+
+
+Responsibilities:
+
+Handle end-to-end physical design: floor planning, placement, CTS, routing, and signoff
+Drive timing closure and optimize PPA (power, performance, area)
+Fix setup/hold violations using STA
+Ensure DRC/LVS and IR/EM clean design
+Work closely with RTL, DFT, and verification teams
+
+
+Requirements:
+
+4+ years in ASIC/VLSI Physical Design
+Hands-on with Cadence Innovus / Synopsys ICC2
+Strong in STA using Synopsys PrimeTime
+Knowledge of physical verification using Mentor Calibre
+Scripting in TCL/Shell/Python
+
+
+---------------
+
+4.
+What You'll Be Doing
+
+ In this position, you will expected to be part of the physical design methodology team. ﻿﻿PD activities includes floor plans, abstract view generation, RC extraction, PNR, STA, EMIR DROP, DRCs & schematic to layout verification.
+Work in collaboration with design team for addressing design challenges. ﻿﻿Help team members in debugging tool/design related issues. ﻿﻿Constantly look for improvement in RTL2GDS flow to improve PPA. Troubleshoots a wide variety up to and including difficult design issues and applied proactive intervention.
+Write scripts (TCL/Python) to help design teams move forward with their design and chip goals
+Build flows based on industry standard EDA tools to implement designs efficiently and improve PPA. Support flows for chip design teams across tapeouts and tech nodes.
+
+What We Need To See
+
+ BE/BTECH/MTECH, or equivalent experience.
+ 3+ years of experience in Physical Design, preferably with methodology/flow experience.
+ Strong understanding in the RTL2GDSII flow or design implementation in leading process technologies. Good understanding of the RTL2GDSIl concepts related to synthesis, place & route, CTS, timing convergence, layout closure.
+ Expertise on high frequency design methodologies. Good knowledge and experience in Block-level and Full-chip Floor-planning and Physical verification. Working experience with tools like ICC2/Innovus, Primetime/Tempus/Seahawk etc used in the RTL2GDSIl implementation.
+ Strong knowledge and experience in standard place and route flows ICC2/Synopsys and Innovus/Cadence flows preferred. Well versed with timing constraints, STA, IR and ECO timing closure.
+Strong algorithmic thinking with good automation skills in PERL, TCL, tool specific scripting on one of the industry leading Place & Route tools. Python will be helpful too.
+ Ability to multi-task and flexibility to work in global environment.
+ Good communication skills and strong motivation, Strong analytical & Problem Solving skills
+Willingness to learn and master new techniques quickly
+Innovate and drive changes across teams & workflows
+
+
+----------------
+
+5.
+
+Must-Have:
+
+Should have in depth experience in Floor-planning, CTS, Power routing, place and route, timing closure, DRC and LVS
+Should have worked on the latest technology nodes (14nm or 2nm to 5nm)
+Must have experience in Static timing analysis
+Must have experience in Physical verification and appropriate fixes
+Should have worked on block level and top-level designs
+Strong problem-solving skills and communication skills
+Ability to mentor and work closely with junior engineers
+Tools: Synopsys and Cadence
+
+--------------
+
+6.
+
+Responsibilities:
+
+• Physical Design Implementation: Perform floor planning, partitioning, physical implementation, and timing constraint development for complex IC designs, ensuring robust STA and EM/IR closure.
+• Timely, High-Quality Delivery: Own block-level delivery across multiple milestones with a focus on quality, completeness, and schedule adherence.
+• Clock & Routing Optimization: Optimize clock tree architectures, guide routing strategies, and drive extraction quality improvements.
+• PnR Execution: Manage the entire place-and-route cycle, including macro/IP integration, hierarchical design, and signoff readiness.
+• Leadership & Planning: Provide accurate area and effort estimates, contribute to planning, and lead execution to meet project goals and timelines.
+• Team Collaboration: Work effectively with cross functional peers and demonstrate strong teamwork and communication skills.
+• Automation & Efficiency: Develop automation to improve flow robustness, efficiency, and overall PPA quality.
+
+
+
+Requirements:
+
+• Experience: 5–8 years of hands-on physical design implementation, flow development, and Tempus-based STA analysis.
+• PPA Expertise: Proven ability to meet aggressive PPA targets for SoC designs, including advanced place-and-route and IP integration.
+• Methodology Knowledge: Strong understanding of ASIC physical design flows, best practices, and signoff methodologies.
+• Tools & Technologies:
+
+– Cadence PD Flow (Required): Innovus (PnR), Tempus (STA), Quantus (Extraction), Voltus (IR/EM).
+– Experience with signoff tools such as Calibre.
+• Advanced Nodes: Hands-on experience across multiple advanced technology nodes.
+• Digital Fundamentals: Strong grasp of digital electronics and physical design fundamentals.
+• Efficiency Focus: Experience improving design flow efficiency and reducing cycle time.
+
+
+----------------
+
+7.
+
+Requirements : 
+
+
+
+Engineer with a good attitude, strong analytical skills, effective communication, and excellent problem-solving abilities.
+
+
+Key Responsiblities: 
+
+
+
+Own critical CPU units and drive to convergence from RTL-to-GDSII - synthesis, floor-planning, place and route, timing closure, and signoff 
+
+
+
+Understand the micro-architecture to perform feasibility studies on performance, power, and area (PPA) tradeoffs for design closure. 
+
+
+
+Develop and improve physical design methodologies and customize recipes across various implementation steps to optimize PPA. 
+
+
+
+Implement floor plan, synthesis, placement, CTS, Timing Closure, Routing, Extraction, Physical Verification (DRC & LVS), EM/IR and signoff.
+
+
+ Handling different PNR tools - Synopsys fusion compiler, Cadence, PrimeTime, StarRC, Calibre, Apache Redhawk
+
+
+------------------
+
+8.
+
+
+About the job
+Job Description
+
+The candidate will be responsible for implementing the place and route of design blocks including floorplanning, placement, clock tree building, routing, timing optimizations, DRC, LVS fixing, IR drop analysis, Formal verification, power intent checks etc. The candidate will also be responsible for block-level physical design closure in terms of timing, power, DRC/LVS, etc.
+
+Requirements
+
+ 3-8years of experience in ASIC Physical Design
+ Have good knowledge of the entire physical design process from floorplan to GDSII generation
+ Good Exposure to Physical Verification Process
+ Have hands-on experience in the latest sub-micron technologies below 10 nm
+ Hands–on experience in leading PnR tools Synopsys ICC/ICC2
+ Experience in low power designs and handling congestion or timing critical tiles will be preferred
+ Should be a quick learner and have good attention to detail
+ Experience in ECO implementation preferred
+ Scripting skills in Perl/Tcl/Python etc
+ Must have good communication & problem-solving skills.
+ Should be able to handle PnR tasks with minimal supervision
+
+
+--------------
+
+9. 
+
+
+About the job
+L&T Technologies (LTTS) is looking for Physical Design Engineers (PnR)with 4.5+ Years of experience.
+
+
+Job Location : Bangalore 
+
+
+
+Please find the detailed job description below ::
+
+
+ • IP/Block level PnR activities from Netlist to GDS-II.
+ • Good knowledge of all PnR activities like Floor-planning, Placement, CTS, Routing, Timing closure(STA), signoff checks like FEV, VCLP, EMIR and PV.
+ • Knowledge of industry stanrd E tools (Synops, Cadence, Mentor)
+ • Worked on DSM technologies, tsmc 5nm and below experience preferred.
+ • Knowledge of scripting skills.
+ • Minimum Experience : 4.5+ Years
+
+
+------------
+
+10.
+
+
+About the job
+Job Description
+
+
+
+Experience in all phases of the IC design process from RTL->GDS2
+Physical implementation of SoC/Full-chip-level and/or high-speed CPU/GPU/DSP cores
+Experience in high-speed, low-power, mixed-signal SoC’s is a plus
+Experience in developing PNR methodology/flow to and supporting a larger PD team
+Experience on floor planning, clocking & power network architecture and design
+Experience in low-power implementation using UPF/CPF power intent flow
+Experience in I/O Ring, RDL routing, bumps and other top-level design considerations
+Experience in LVS/DRC/ERC, EMIR (static & dynamic), LEC and Reliability sign-off checks
+Experience in STA analysis, timing closure and defining chip sign-off criterion
+Thorough understanding of digital design, timing analysis, and DFT
+Good understanding of foundation IP components – Standard cells, SRAMs etc.
+EDA Tools: Synopsys (DCT, ICC2, PT-SI, Red hawk), Cadence (Genus, Tempus, Innovus, Voltus)
+
+
+
+------------------
+
+11.
+
+About the job
+Job description
+
+Roles and Responsibilities
+
+Good experience in PD execution of multiple medium to High critical blocks/HMs from Netlist to GDSII
+Develop and qualify the methodology and implementation flow in advanced technologies like 14nm and below.
+Well versed with FC/Innovus tools and good understanding of place/cts/Route critical settings
+Develop expertise in ASIC Synthesis, Floor Planning, STA (Static Timing Analysis), and other relevant technologies.
+Good experience in Low power designs
+Conduct thorough analysis of designs to identify potential issues and implement solutions.
+Perform physical design activities including floor planning, PNR (Physical Netlist) creation, and timing closure using Innovus tools.
+
+
+-------------
+
+12.
+
+
+About the job
+Minimum qualifications:
+
+Bachelor’s degree in Electrical Engineering or equivalent practical experience.
+5 years of experience with advanced design, including clock/voltage domain crossing, Design for Testing (DFT), and low power designs.
+Experience with System on a Chip (SoC) cycles.
+Experience in high-performance, high-frequency, and low-power designs.
+
+Preferred qualifications:
+
+Master’s degree in Electrical Engineering.
+Experience in coding with System Verilog and scripting with Tool Command Language (TCL).
+Experience in VLSI design in SoC or experience with multiple-cycles of SoC in ASIC design.
+Experience in coding constraints and scripting with TCL.
+Experience with Static Timing Analysis (STA) convergence on blocks/Subsystem (SS)/SoC
+
+About The Job
+
+Be part of a team that pushes boundaries, developing custom silicon solutions that power the future of Google's direct-to-consumer products. You'll contribute to the innovation behind products loved by millions worldwide. Your expertise will shape the next generation of hardware experiences, delivering unparalleled performance, efficiency, and integration.
+
+In this role, you will be part of a team developing SoCs used to accelerate Machine Learning (ML) computation in data centers. You will collaborate with members of architecture, verification, power and performance, physical design etc. to specify and deliver high quality designs for next generation data center accelerators. You will solve technical problems with innovative micro-architecture and practical logic solutions, and evaluate design options with complexity, performance, power and area in mind.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+Responsibilities
+
+Define and drive the implementation of physical design methodologies.
+Take ownership of one or more physical design partitions or top level.
+Manage timing and power consumption of the design.
+Contribute to design methodology, libraries, and code review. 
+Define the physical design related rule sets for the functional design engineers.
+
+
+
+--------------
+
+13.
+
+About the job
+Job Description
+
+Key Responsibilities
+
+Lead MCU/subsystem/block-level closure efforts, focusing on timing closure, congestion resolution, power integrity, and physical implementation.
+Collaborate closely with SoC-level teams to align on clocking and floor planning strategies, leveraging strong understanding of SoC methodologies without direct ownership of SoC-level activities.
+Work on the different power domains and implement UPF.
+Apply knowledge of clocking methodologies to ensure subsystem clock domain integration aligns with overall SoC clock architecture.
+Develop and refine subsystem closure methodologies and automation flows to improve design quality and efficiency.
+Mentor and guide physical design engineers within the subsystem teams, promoting best practices and methodology adoption.
+Work cross-functionally with RTL designers, STA, power, verification, and backend teams to ensure smooth subsystem integration and closure.
+Proactively identify and mitigate physical design risks, coordinating with SoC teams on potential impacts and solutions.
+
+
+-----------------
+
+14.
+
+About the job
+Job Title: Sr. Design Engineer – Façade
+Company: Shreeji Façade System Pvt. Ltd.
+Location: Mumbai
+
+
+Job Summary:
+
+We are looking for an experienced Sr. Design Engineer specializing in facade systems to lead design, detailing, and execution support for high-rise and commercial projects. The candidate will be responsible for delivering accurate and efficient design solutions aligned with project specifications and timelines.
+
+
+Key Responsibilities:
+
+Prepare detailed façade design drawings (shop drawings, GA drawings, fabrication drawings).
+Design and develop curtain wall systems, shop drawing, Production drawing, MTOs, BTOs glazing systems, cladding, and aluminum façade structures.
+Perform structural calculations and analysis for façade systems.
+Coordinate with architects, consultants, and project teams for design approvals.
+Ensure compliance with project specifications, safety standards, and quality requirements.
+Review and validate BOQs, material specifications, and technical submittals.
+Provide technical support to the execution and site teams.
+Manage design timelines and ensure timely project delivery.
+
+
+------------------
+
+15.
+
+About the job
+Job Title: Physical Design Engineer
+Experience: 4+ Years
+Location: Banglaore/Hyderabad
+Employment Type: Full-time
+Industry: Semiconductors / VLSI / ASIC Design
+Job Summary:
+
+We are looking for a skilled and motivated Physical Design Engineer to join our backend implementation team. The engineer will be responsible for RTL-to-GDSII implementation of complex SoC blocks or full-chip designs, targeting performance, power, and area (PPA) optimization and signoff closure.
+Key Responsibilities:
+
+Own block-level or full-chip implementation from RTL to GDSII.
+Perform:
+Floorplanning and placement
+Clock tree synthesis (CTS)
+Routing and optimization
+Run and close timing (STA), IR drop, EM, DRC, LVS, and antenna checks.
+Drive physical verification and signoff across various corners and scenarios.
+Collaborate with RTL, DFT, STA, and power teams for successful integration.
+Implement and debug low-power design techniques (UPF/CPF-based flows).
+Apply congestion analysis, ECOs, and timing fixes across critical paths.
+Optimize for performance, power, and area using EDA tools and foundry guidelines.
+Prepare design reports and support tapeout activities.
+Required Skills and Experience:
+
+B.E/B.Tech or M.E/M.Tech in Electronics, Electrical, or VLSI Design.
+4+years of experience in ASIC physical design.
+Strong hands-on experience with tools like:
+Place & Route: Cadence Innovus, Synopsys IC Compiler II (ICC2), Siemens Nitro
+STA: Synopsys PrimeTime
+Signoff: Calibre (DRC/LVS), RedHawk (IR/EM), Tempus
+Good understanding of physical design concepts: floorplan, placement, CTS, routing, ECO, and signoff.
+Familiarity with scripting languages: Tcl, Perl, Python for flow automation.
+Solid grasp of timing analysis, power grid design, and physical verification flows.
+
+----------
+
+16.
+About the job
+SoC Physical Design Engineers
+
+
+
+We need experienced engineers to work on the Physical Design & Implementation of SoCs in cutting edge technology and with complex functionality.
+
+
+Skills:
+
+3+ years of relevant experience in Block/SoC level Physical Design.
+
+
+Experience in Block/SoC Physical Design in the following topics:
+PnR tools like ICC2/Innovus with regards to physical/timing convergence
+14nm / 10nm / 7nm / 5nm process nodes
+Tapeout sign-off experience is a must using industry standard tools.
+Cadence Encounter/Synopsys ICC2 tool set
+SDC, STA and Equivalence checking
+Flow automation exposure will be an added advantage.
+
+
+Working knowledge of Unix, Linux and SKILL, Shell/Python Script ability.
+
+
+Quick learner with excellent interpersonal, verbal/written communications, problem solving and decision-making skills
+
+
+Traits:
+
+Adaptable, Flexible, Global Approach/Synthesis, creative and capable of working independently as well as a team player. Should have a strong sense of urgency.
+Solutions orientation; Quality driven; Execution minded
+
+-------------------
+
+17.
+
+About the job
+Job Description :
+
+
+
+Position  : Senior Physical Design Engineer 
+
+Experience : 4 - 12 Years 
+
+Location  : Hyderabad
+Work Mode : Work from office 
+
+
+
+Required Skills : 
+
+
+
+He/She should be able to do top-level floor planning, PG Planning, partitioning,placement, scan-chain-reordering, clock tree synthesis, timing optimisation, SI aware routing, timing analysis/closure and ECO tasks (timing and functional ECOs), SI closure, design rule checks (DRC), and Logical vs. Schematic (LVS) checks, Antenna checks. He/She should have worked on 65nm or lower node designs with adv low power techniques such as Voltage Islands, Power Gating and substrate-bias.
+Provide technical guidance and mentoring to physical design engineers.
+Interface with front-end ASIC teams to resolve issues.
+Low Power Design - Voltage Islands, Power Gating, Substrate-bias techniques.
+Timing closure on DDR2/DDR3/PCIE interfaces.
+Excellent communication skills.
+Strong background of ASIC Physical Design: Floor planning, P&R, extraction, IR Drop Analysis, Timing and Signal Integrity closure.
+Extensive experience and detailed knowledge in Cadence or Synopsys or Magma physical Design Tools.
+Expertise in scripting languages such as PERL, TCL.
+Strong Physical Verification skill set.
+Static Timing Analysis in Primetime or Primetime-SI.
+Good written and oral communication skills. Ability to clearly document plans.
+Ability to interface with different teams and prioritise work based on project needs.
+
+------------
+
+18.
+
+About the job
+Create and develop 3D models, assemblies, and detailed 2D drawings using UG NX.
+Interpret technical specifications and convert them into accurate design solutions.
+Perform design calculations and ensure compliance with applicable standards.
+Collaborate with cross-functional teams such as manufacturing, quality, and project management.
+Optimize designs for manufacturability, performance, and cost efficiency.
+Participate in design reviews and implement feedback effectively.
+Maintain proper documentation, revision control, and data management.
+Ensure timely delivery of design outputs with high quality.
+
+------------
+
+19.
+
+About the job
+PHYSICAL DESIGN ENGINEER/LEAD - NOIDA/Ahmedabad/Bangalore/Hyderabad/Pune
+
+
+
+(NO WORK FROM HOME OR REMOTE WORK)
+
+ 
+
+Job description: 4 to 15 Years of Hands on Experience
+
+Block level Physical Design Implementation from RTL to GDSII or Netlist to GDSII,
+Block level Physical Signoff,
+Block level Timing Signoff and ECO generation.
+Block level Power signoff.
+Good skill on Automation (Perl/Tcl/Awk/Python)
+Able to provide technical guidance to Junior Engineer and lead 4-6 engineers.
+Must have led small project team.
+Good in communication skill as he/she would be single point of contact for client.
+
+
+-----------------------------
+
+20.
+
+About the job
+Are you an experienced Staff Physical Design Engineer looking for your next challenge?
+
+
+Aion Silicon is actively building a pipeline of talented engineers for future opportunities, and we’d love to hear from skilled professionals who are passionate about Physical Design.
+With design centres across the UK, Spain, Hyderabad, and Morocco, we offer the flexibility to base this role in any of our global locations. If you’re interested in exploring future opportunities with us, please click the link below to apply and register your interest.
+Purpose of role 
+
+The Staff Physical Design Engineer is expected to work as part of a Physical implementation design team. Within the team the designer will have responsibility for block development and possibly full chip responsibility from RTL to GDS and will be expected to be diligent their ownership of the responsibilities assigned to them. They will also be able manage a team of 2-3 engineers of lower grade and be responsible for their line management and if appropriate day-to-day tasks. 
+
+ 
+Responsibilities 
+
+ 
+
+The person should contribute to physical design projects with little guidance and can work independently.
+
+Should be capable of solving problems of moderate complexity.
+
+Applies judgment in interpreting results and conducting quantitative analysis.
+
+Will be engaged in maintaining a high quality in their work.
+
+Should be able to take multi-assignments from different customers/Teams.
+
+Should be capable of interacting with the more experienced team members to resolve problems.
+
+Should show ability in many tools or be an expert in one or two. Examples of which are: Synthesis, PnR, Formal verification, Custom layout techniques, Analog simulation, and Chip finishing.
+
+Should be able to contributes to technical white papers. 
+
+May contribute to sales support as part of a team, such as Statement of Work
+
+Should be capable of maintaining accurate time keeping.
+
+Should be self-disciplined in executing design tasks.
+
+Team leader of a team of 2-3 engineers or be able to train the junior engineers 
+
+Qualifications 
+
+A degree/masters or PhD in either a relevant subject
+ 
+Skills & experience 
+
+ 
+Typically, 5+ years’ experience
+
+Should have good tapeout experience on multiple technologies 3nm, 5nm,7nm,12nm,16nm, 22nm, 28nm
+
+Should have worked on the DRC, LVS, ANTENNA, ERC physical verification checks
+
+Should have good work experience and understanding of Concepts in Synthesis, Floorplaning, Placement, CTS, Routing, STA
+
+Input skill set one or more of the following: PnR using either Synopsys ICC, Cadence EDI, Mentor Olympus, Synthesis using either Synopsys DC or Cadence RC, Experience of Formailty or Formalpro, Experience of Mentor Calibre or Synopsys IC Validator
+
+Serves as an independent individual contributor to technical project
+
+Demonstrates capability as a problem solver with an ability to work individually or as part of a team
+
+Evaluates issues and defines solutions as part of a team 
+
+Broadens cross disciplinary knowledge through new assignments 
+
+Attributes 
+
+ 
+
+Self-organisation and ability to respond to changing priorities quickly
+
+Team leader and team player
+
+Ability to work under pressure
+
+Organisation and problem-solving skills
+
+Self-motivated
+
+Excellent attention to detail 
+
+Able to work under own initiative
+
+-------------
+
+21.
+
+About the job
+As a Physical Design Engineer at Nsemi, you’ll play a crucial role in transforming RTL designs into efficient, high-performance physical layouts. You’ll work on floorplanning, placement, routing, and timing closure, using industry-leading EDA tools. Your expertise will ensure that our designs meet stringent performance, power, and area goals, contributing to the successful tape-out of complex semiconductor chips. This is an exciting opportunity to work on cutting-edge technology in a collaborative and innovative environment.
+
+Physical Design Engineer
+
+As a Physical Design Engineer at Nsemi, you’ll play a crucial role in transforming RTL designs into efficient, high-performance physical layouts. You’ll work on floorplanning, placement, routing, and timing closure, using industry-leading EDA tools. Your expertise will ensure that our designs meet stringent performance, power, and area goals, contributing to the successful tape-out of complex semiconductor chips. This is an exciting opportunity to work on cutting-edge technology in a collaborative and innovative environment.
+
+Physical Design Engineer
+
+As a Physical Design Engineer at Nsemi, you’ll play a crucial role in transforming RTL designs into efficient, high-performance physical layouts. You’ll work on floorplanning, placement, routing, and timing closure, using industry-leading EDA tools. Your expertise will ensure that our designs meet stringent performance, power, and area goals, contributing to the successful tape-out of complex semiconductor chips. This is an exciting opportunity to work on cutting-edge technology in a collaborative and innovative environment.
+
+Qualification Required
+
+Qualification Required:
+
+Typically requires minimum of 3+ years of experience in Physical Design with mainstream P&R tools
+Bachelors OR Master’s Degree Engineering in Electronics or Electrical or Telecom or VLSI Engineering.
+Typically requires minimum of 3+ years of experience in Physical Design with mainstream P&R tools
+Bachelors OR Master’s Degree Engineering in Electronics or Electrical or Telecom or VLSI Engineering.
+
+Roles And Responsibilities
+
+Roles And Responsibilities:
+
+Working on 10nm/7nm/5nm or lower nodes designs with various customers for deployment.
+Expertise in solving customer’s problems for critical designs to achieve desired performance, area, and power targets.
+Responsible to develop flow and methodology for doing placement, CTS, and routing.
+Provide training and technical support to customers
+Working on 10nm/7nm/5nm or lower nodes designs with various customers for deployment.
+Expertise in solving customer’s problems for critical designs to achieve desired performance, area, and power targets.
+Responsible to develop flow and methodology for doing placement, CTS, and routing.
+Provide training and technical support to customers
+
+Required Technical And Professional Expertise
+
+Required Technical And Professional Expertise:
+
+Solid experience in place & route flow (placement guidelines, clock-tree synthesis, routing, timing optimizations). Experience on hierarchical designs and/or Low Power implementation is an advantage.
+Experience on Synthesis, interfacing with RTL and implementation designers to achieve better quality of results.
+Experience on Floorplan design, including placement of hard macros, padring, power grid and custom analog routes.
+Experience on Static Timing Analysis related activities (constraints development, parasitic extractions, sign-off requirements).
+Knowledge of Physical Verification (DRC/LVS/DFM, chip finishing).
+Hands-on experience with FinFET technologies is an advantage
+Solid experience in place & route flow (placement guidelines, clock-tree synthesis, routing, timing optimizations). Experience on hierarchical designs and/or Low Power implementation is an advantage.
+Experience on Synthesis, interfacing with RTL and implementation designers to achieve better quality of results.
+Experience on Floorplan design, including placement of hard macros, padring, power grid and custom analog routes.
+Experience on Static Timing Analysis related activities (constraints development, parasitic extractions, sign-off requirements).
+Knowledge of Physical Verification (DRC/LVS/DFM, chip finishing).
+Hands-on experience with FinFET technologies is an advantage
+
+
+-------------
+
+
+22.
+
+
+About the job
+NVIDIA has continuously reinvented itself. Our invention of the GPU sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. Today, research in artificial intelligence is booming worldwide, which calls for highly scalable and massively parallel computation horsepower that NVIDIA GPUs excel NVIDIA is a "learning machine" that constantly evolves by adapting to new opportunities that are hard to solve, that only we can address, and that matter to the world. This is our life's work, to amplify human creativity and intelligence. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join our diverse team and see how you can make a lasting impact on the world!
+
+NVIDIA is seeking passionate, highly motivated, and creative design engineers to be part of a team working on industry-leading GPUs and SOCs. This position offers the opportunity to have real impact in a dynamic, technology-focused company impacting product lines ranging from consumer graphics to self-driving cars and the growing field of artificial intelligence. We have crafted a team of exceptional people stretching around the globe, whose mission is to push the frontiers of what is possible today and define the platform for the future of computing.
+
+What You'll Be Doing
+
+ In this position, you will expected to be part of the physical design methodology team. ﻿﻿PD activities includes floor plans, abstract view generation, RC extraction, PNR, STA, EMIR DROP, DRCs & schematic to layout verification.
+Work in collaboration with design team for addressing design challenges. ﻿﻿Help team members in debugging tool/design related issues. ﻿﻿Constantly look for improvement in RTL2GDS flow to improve PPA. Troubleshoots a wide variety up to and including difficult design issues and applied proactive intervention.
+Write scripts (TCL/Python) to help design teams move forward with their design and chip goals
+Build flows based on industry standard EDA tools to implement designs efficiently and improve PPA. Support flows for chip design teams across tapeouts and tech nodes.
+
+What We Need To See
+
+ BE/BTECH/MTECH, or equivalent experience.
+ 3+ years of experience in Physical Design, preferably with methodology/flow experience.
+ Strong understanding in the RTL2GDSII flow or design implementation in leading process technologies. Good understanding of the RTL2GDSIl concepts related to synthesis, place & route, CTS, timing convergence, layout closure.
+ Expertise on high frequency design methodologies. Good knowledge and experience in Block-level and Full-chip Floor-planning and Physical verification. Working experience with tools like ICC2/Innovus, Primetime/Tempus/Seahawk etc used in the RTL2GDSIl implementation.
+ Strong knowledge and experience in standard place and route flows ICC2/Synopsys and Innovus/Cadence flows preferred. Well versed with timing constraints, STA, IR and ECO timing closure.
+Strong algorithmic thinking with good automation skills in PERL, TCL, tool specific scripting on one of the industry leading Place & Route tools. Python will be helpful too.
+ Ability to multi-task and flexibility to work in global environment.
+ Good communication skills and strong motivation, Strong analytical & Problem Solving skills
+Willingness to learn and master new techniques quickly
+Innovate and drive changes across teams & workflows
+
+
+-----------------
+
+23.
+
+About the job
+Job Details
+
+Job Description:
+
+As a Physical Design Engineer, you will be responsible for planning, designing, and validating power delivery networks (PDN) for System-on-Chip (SoC) and custom IPs. You will leverage Fusion Compiler for PDN implementation and collaborate closely with IP partition owners, IR and reliability owners, and dedicated IR/EM/power integrity engineers to understand power requirements and ensure robust PDN solutions.
+
+Your Responsibilities Will Include But Are Not Limited To
+
+ Planning and designing PDN for SoCs and custom IPs using Fusion Compiler.
+ Performing layout verification of the PDN network and clearing all DRCs (Design Rule Checks).
+ Collaborating with IP partition owners, IR/reliability owners, and dedicated IR/EM/power integrity engineers to gather power requirements and implement them in PDN design.
+ Ensuring PDN meets performance, reliability, and area goals.
+ Applying best-known methods to create high-quality PDN layouts efficiently.
+
+The Ideal Candidate Should Exhibit The Following Behavioral Traits
+
+ Strong problem-solving and teamwork skills.
+ Effective communication and collaboration across teams.
+ Attention to detail and adaptability.
+ Ability to work independently and proactively address design challenges.
+
+Qualifications
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.
+
+Minimum Qualifications
+
+ BTech in Electrical or Electronics Engineering with 3+ years of relevant experience OR MTech in VLSI or related field with 2+ years of relevant experience.
+ Experience with Fusion Compiler.
+ Technical skills required for PD engineers.
+
+Preferred Qualifications
+
+ Scripting experience with TCL for automation.
+ Relevant expertise in PDN design and implementation.
+ Experience in layout design or LV (Layout Verification) cleanup using Synopsys Fusion Compiler (FC) or ICC.
+
+Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+
+
+-----------------
+
+24.
+
+About the job
+Job details 
+
+Are you an experienced Staff Physical Design Engineer looking for your next challenge? 
+
+ 
+Aion Silicon is actively building a pipeline of talented engineers for future opportunities, and we’d love to hear from skilled professionals who are passionate about Physical Design. 
+
+ 
+With design centres across the UK, Spain, Hyderabad, and Morocco, we offer the flexibility to base this role in any of our global locations. If you’re interested in exploring future opportunities with us, please click the link below to apply and register your interest. 
+
+ 
+Purpose of role 
+
+ 
+The Staff Physical Design Engineer is expected to work as part of a Physical implementation design team. Within the team the designer will have responsibility for block development and possibly full chip responsibility from RTL to GDS and will be expected to be diligent their ownership of the responsibilities assigned to them. They will also be able manage a team of 2-3 engineers of lower grade and be responsible for their line management and if appropriate day-to-day tasks. 
+
+ 
+Responsibilities 
+
+ 
+The person should contribute to physical design projects with little guidance and can work independently.
+
+Should be capable of solving problems of moderate complexity.
+
+Applies judgment in interpreting results and conducting quantitative analysis.
+
+Will be engaged in maintaining a high quality in their work.
+
+Should be able to take multi-assignments from different customers/Teams.
+
+Should be capable of interacting with the more experienced team members to resolve problems.
+
+Should show ability in many tools or be an expert in one or two. Examples of which are: Synthesis, PnR, Formal verification, Custom layout techniques, Analog simulation, and Chip finishing.
+
+Should be able to contributes to technical white papers.
+
+May contribute to sales support as part of a team, such as Statement of Work
+
+Should be capable of maintaining accurate time keeping.
+
+Should be self-disciplined in executing design tasks.
+
+Team leader of a team of 2-3 engineers or be able to train the junior engineers 
+
+--------------------------
+
+25. 
+
+About the job
+Hyderabad, Guntur
+
+Role And Responsibility
+
+Ability to execute block level P&R and Timing closure activities.
+Will be responsible for owning up block level P&R. Perform Netlist2GDS on blocks
+Implementation of multimillion gate SoC designs in cutting edge process technologies (28nm,16nm,14nm & below ).
+Strong Hands-on expertise on any of the aspects of physical design including Synthesis, Floor Planning, Power Plan, Integrated Package and Floorplan design, Place and Route, Clock Planning and Clock Tree Synthesis, complex analog IP integration, Parasitic Extraction, Timing Closure, Power / IR Drop (Static and Dynamic), Signal Integrity Analysis, Physical Verification (DRC, ERC, LVS), DFM and DFY and Tapeout.
+Expertise in analyzing and converging on crosstalk delay, noise glitch, and electrical rules in deepsub micron processes required. Understanding of process variation effects, and experience in variations analysis/modeling techniques and convergence mechanism would be a plus.
+Expertise in Synopsys ICC2, PrimeTime physical design tools.
+Skill and experience in scripting using Tcl or Perl is highly desirable
+
+------------
+
+26.
+
+About the job
+Project Role : Physical Design Engineer
+
+Project Role Description : Translate logical circuit designs into a physical layout, optimizing for area, power, and timing. Perform placement, routing, and clock tree synthesis, ensuring the design meets timing and manufacturing constraints. Work closely with timing and verification teams to resolve any physical design issues before tape-out.
+
+Must have skills : Physical Design
+
+Good to have skills : NA
+
+Minimum 5 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As a Physical Design Engineer, you will engage in the intricate process of transforming logical circuit designs into a tangible physical layout. Your typical day will involve optimizing designs for area, power, and timing, while performing essential tasks such as placement, routing, and clock tree synthesis. You will collaborate closely with timing and verification teams to address and resolve any physical design challenges prior to the tape-out phase, ensuring that all designs adhere to stringent timing and manufacturing constraints. This role requires a keen attention to detail and a commitment to delivering high-quality results in a fast-paced environment.
+
+Roles & Responsibilities:
+
+ Expected to be an SME.
+ Collaborate and manage the team to perform.
+ Responsible for team decisions.
+ Engage with multiple teams and contribute on key decisions.
+ Provide solutions to problems for their immediate team and across multiple teams.
+ Mentor junior team members to enhance their skills and knowledge in physical design.
+ Continuously evaluate and implement best practices in physical design methodologies.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Physical Design.
+ Strong understanding of placement and routing techniques.
+ Experience with clock tree synthesis and timing closure.
+ Familiarity with design rule checking and layout versus schematic verification.
+ Ability to utilize EDA tools for physical design tasks.
+
+
+Additional Information:
+
+ The candidate should have minimum 5 years of experience in Physical Design.
+ This position is based at our Hyderabad office.
+ A 15 years full time education is required.
+
+------
+
+27.
+
+About the job
+About Eridu
+
+Eridu India Private Limited, a wholly owned subsidiary of Eridu Corporation, Saratoga, California, USA, is looking to hire highly motivated and talented professionals for its R&D center in Bengaluru to join our world-class team.
+
+Eridu is a Silicon Valley-based hardware startup pioneering infrastructure solutions that accelerate AI data centers to deliver Faster AI. Today’s AI performance is frequently limited by communication bottlenecks. Eridu introduces multiple industry-first innovations across silicon, packaging, software, and systems to deliver an order of magnitude improvement in performance and unlock greater GPU utilization to speed training job completion times and tokens-per-second for more profitable inference. We do this while simultaneously reducing capital and power costs and improving reliability.
+
+The company’s solutions and value proposition have been widely validated by leading hyperscalers.
+
+Eridu has raised over $200M to date including its most recent, oversubscribed Series A round. The company is led by a veteran team of Silicon Valley executives who have delivered multiple billion dollar product lines and led multiple companies to billion dollar exits, including serial entrepreneur Drew Perkins, co-founder of Infinera (NASDAQ: INFN), Lightera (acq. by Ciena), Gainspeed (acq. by Nokia) and Mojo Vision (the world’s leading micro-LED company). The company is in execution mode and has a world-class engineering team with decades of experience in state-of-the art silicon, packaging, optics, software, and systems. Eridu is working with best-in-class supply chain partners including silicon, packaging and systems.
+
+Visit our website eridu.ai to learn more.
+
+Position Overview
+
+We are seeking a hands-on Technical Lead, Physical Design to drive end-to-end implementation of complex SoC designs at advanced process nodes. This role combines deep technical execution with team leadership and cross-functional collaboration.
+
+The ideal candidate is a seasoned physical design expert who has led high-complexity, production tape-outs and can independently drive floorplanning, timing closure, power optimization, and sign-off. In addition to owning critical blocks and chip-level integration, this leader will mentor engineers, establish best practices, and represent physical design in architecture and cross-functional reviews.
+
+This is a high-impact role within Eridu’s silicon organization, supporting next-generation AI infrastructure devices built at advanced nodes (7nm, 5nm, and 3nm-class technologies).
+
+Key Responsibilities
+
+Lead full-chip and/or large-block physical design execution from netlist to GDSII.
+Own critical aspects of implementation including floorplanning, power grid design, placement, CTS, routing, ECO implementation, timing closure, and physical sign-off.
+Drive PPA (performance, power, area) optimization across complex SoC designs.
+Resolve congestion, IR/EM, multi-voltage domain, and advanced-node design challenges.
+Partner closely with RTL, architecture, STA, DFT, package, and foundry teams to ensure clean handoff and tape-out success.
+Establish and improve physical design methodologies, flows, and automation.
+Mentor and technically guide junior and mid-level physical design engineers.
+Represent the physical design function in design reviews and cross-functional decision forums.
+Coordinate with CAD/EDA vendors to optimize tools and flows where necessary.
+
+------------
+
+28.
+
+About the job
+www.EnchargeAi.com
+Location : Bangalore
+Title : Principal Physical Design Engineer 
+
+
+
+Principal Physical Design Engineer (RTL-to-GDSII)
+Bangalore
+EnCharge AI is a leader in advanced AI hardware and software systems for edge-to-cloud computing. EnCharge’s robust and scalable next-generation in-memory computing technology provides orders-of-magnitude higher compute efficiency and density compared to today’s best-in-class solutions. The high-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. EnCharge AI launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.
+Job Title: Principal Physical Design Engineer (RTL-to-GDSII)
+
+Experience: 14+ Years
+Technology Focus: Sub-5nm (3nm/2nm)
+Location: Bangalore Hybrid
+
+
+The Vision
+
+We are seeking a Principal Physical Design Engineer who thrives on complexity and rejects the "black box" approach to EDA tools. This role is for a First Principles thinker who questions the status quo. If a standard flow isn't yielding the desired PPA (Power, Performance, Area), you dive into the PDK, the tool algorithms, and the methodology to find a better way. You are responsible for transforming raw RTL into world-class silicon by eliminating systemic bottlenecks and building a scalable, predictable path to GDSII.
+
+
+Key Responsibilities
+
+Full-Flow Ownership: Lead the implementation of massive, high-speed blocks/SoCs from Synthesis through Sign-off using the Cadence Digital Suite.
+PPA Optimization: Push the theoretical limits of the PDK and tools. You will analyze and optimize the interplay between library cells, metal stacks, and tool engines to squeeze out every millivolt and picosecond.
+Methodology & Scalability: Build and refine a "Push-Button" style execution methodology that is robust, repeatable, and minimizes manual "human-in-the-loop" iterations.
+Cross-Functional "Left-Shift": Collaborate with RTL, Architecture, and DFT teams to influence design decisions early. You will drive a holistic approach where physical constraints inform the architecture, not just react to it.
+Bottleneck Elimination: Identify "drag" in the execution pipeline—whether it’s runtime, convergence issues, or tool limitations—and architect automated solutions to bypass them.
+
+---------------------------
+
+29.
+
+About the job
+Company Description
+
+Renesas is one of the top global semiconductor companies in the world. We strive to develop a safer, healthier, greener, and smarter world, and our goal is to make every endpoint intelligent by offering product solutions in the automotive, industrial, infrastructure and IoT markets. Our robust product portfolio includes world leading MCUs, SoCs, Analog and power products, plus Winning Combination solutions that curate these complementary products. We are a key supplier to the world’s leading manufacturers of electronics you rely on every day; you may not see our products, but they are all around you.
+
+Renesas employs roughly 21,000 people in more than 30 countries worldwide. As a global team, our employees actively embody the Renesas Culture, our guiding principles based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial. Renesas believes in, and has a commitment to, diversity and inclusion, with initiatives and a leadership team dedicated to its resources and values. At Renesas, we want to build a sustainable future where technology helps make our lives easier. Join us and build your future by being part of what’s next in electronics and the world.
+
+Job Description
+
+Be part of the Renesas Memory Group, we are seeking a smart Junior Physical Design Engineer with strong expertise in RTL-to-GDSII implementation and experience working on complex STA timing closure. The role demands in-depth knowledge of industry-standard EDA tools and a solid grasp of timing closure and physical verification processes.
+
+Key Responsibilities
+
+Execute full RTL-to-GDSII flow: Synthesis, floorplanning, placement, clock tree synthesis (CTS), routing, and sign-off.
+Perform Static Timing Analysis (STA) and ensure timing closure across all design corners.
+Execute EM IR and physical verification checks (LVS, DRC).
+Collaborate closely with cross-functional teams (RTL, STA, Circuit, and DFT).
+Handle complex designs on 12nm and below technology nodes.
+
+
+--------------
+
+30.
+
+About the job
+Company
+
+Qualcomm India Private Limited
+
+Job Area
+
+Engineering Group, Engineering Group > Hardware Engineering
+
+General Summary
+
+As a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Hardware Engineer, you will plan, design, optimize, verify, and test electronic systems, bring-up yield, circuits, mechanical systems, Digital/Analog/RF/optical systems, equipment and packaging, test systems, FPGA, and/or DSP systems that launch cutting-edge, world class products. Qualcomm Hardware Engineers collaborate with cross-functional teams to develop solutions and meet performance requirements.
+
+Minimum Qualifications
+
+ Bachelor's degree in Computer Science, Electrical/Electronics Engineering, Engineering, or related field and 6+ years of Hardware Engineering or related work experience.
+
+
+OR
+
+Master's degree in Computer Science, Electrical/Electronics Engineering, Engineering, or related field and 5+ years of Hardware Engineering or related work experience.
+
+OR
+
+PhD in Computer Science, Electrical/Electronics Engineering, Engineering, or related field and 4+ years of Hardware Engineering or related work experience.
+
+Additional Job Description
+
+Bachelor’s or Master’s degree from a top-tier institute.
+13 years of experience in physical design from product-based companies.
+
+
+Experience
+
+Proven experience in managing complex subsystems and small teams.
+Proficiency in complete Netlist2GDS: Floorplan, place and route (PnR), and sign-off convergence, including Static Timing Analysis (STA) and sign-off optimizations.
+Hand on experience in lower technology nodes.
+
+
+Job Requirements
+
+Expertise in meeting demanding Power, Performance, and Area (PPA) requirements for complex subsystems/System on Chips (SoCs), place and route, and IP integration.
+Experience in low power design implementation, including Unified Power Format (UPF), multi-voltage domains, and power gating.
+Familiarity with ASIC design flows and physical design methodologies.
+Strong understanding of circuit design, device physics, and deep sub-micron technology.
+Experience working on multiple technology nodes in advanced processes.
+Proficiency in automation to drive improvements in PPA.
+Managing and driving a small team for project execution and PPA targets
+
+
+Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+
+
+------------
+
+31.
+
+About the job
+Job Title: Physical Design Engineer
+
+Summary
+
+We are seeking a talented and experienced Physical Design Engineer to join our team in Hyderabad. The ideal candidate will have 2-4 years of experience in physical design and be responsible for designing and implementing physical layouts for integrated circuits.
+
+Roles And Responsibilities
+
+ Work closely with the design team to understand the requirements for the integrated circuits
+ Develop physical design methodologies and strategies to meet project goals
+ Implement physical layouts for integrated circuits using industry standard tools
+ Perform physical verification checks to ensure design meets specifications
+ Collaborate with cross-functional teams to resolve design issues and optimize performance
+ Stay current with industry trends and advancements in physical design technology
+
+Qualifications
+
+ Bachelor's or Master's degree in Electrical Engineering or related field
+ 2-4 years of experience in physical design for integrated circuits
+ Proficiency in industry standard physical design tools such as Cadence or Synopsys
+ Strong understanding of physical design methodologies and strategies
+ Excellent problem-solving skills and attention to detail
+ Ability to work effectively in a team environment and communicate effectively with cross-functional teams
+
+
+------------------
+
 ## JD 1 - Senior Physical Design Engineer (Analog Devices)
 
 Key responsibilities include:
