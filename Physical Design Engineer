@@ -1,0 +1,1561 @@
+# Physical Design Engineer - Job Descriptions
+
+## JD 1 - Senior Physical Design Engineer (Analog Devices)
+
+Key responsibilities include:
+
+Own end-to-end physical implementation for major IP blocks and/or full-chip designs, ensuring alignment with career development framework.
+
+Develop and optimize floorplans including macro placement, IO ring planning, power grid design, and congestion/area/timing analysis.
+
+Execute place-and-route, clock tree synthesis, and timing closure using industry-standard tools like Cadence Innovus.
+
+Perform detailed static timing analysis (STA) and drive sign-off across PVT corners and operating modes.
+
+Identify and resolve physical verification issues (DRC/LVS/ERC) in close partnership with process/CAD/foundry teams.
+
+Automate design flows to improve efficiency and quality; contribute to continuous flow enhancements.
+
+Collaborate with RTL, DFT, verification, package, and library teams to meet performance, power, and area (PPA) targets.
+
+Mentor and coach junior engineers, sharing best practices in physical design and advancing team capability.
+
+Document methodologies and contribute to best practices, supporting a culture of learning and continuous improvement.
+
+Demonstrate agility in adapting to changing business needs, leading by example, and striving for best-in-class results.
+
+---
+
+## JD 2 - Staff Physical Design Engineer (Aion Silicon)
+
+Key responsibilities include:
+
+Contribute to physical design projects with little guidance and work independently on complex assignments.
+
+Solve problems of moderate complexity and apply judgment in interpreting results and conducting quantitative analysis.
+
+Maintain high quality in work output and take multi-assignments from different customers and teams.
+
+Interact with experienced team members to resolve technical problems and collaborate cross-functionally.
+
+Demonstrate expertise in multiple EDA tools such as Synthesis, PnR, Formal verification, Custom layout, Analog simulation, and Chip finishing.
+
+Contribute to technical white papers and support sales initiatives as part of a team.
+
+Maintain accurate timekeeping and execute design tasks with self-discipline.
+
+Lead a team of 2-3 engineers and provide training to junior engineers on design methodologies.
+
+Manage block-level and potentially full-chip responsibilities from RTL to GDS with diligent ownership.
+
+Participate in managing line responsibilities for junior staff and guide their day-to-day technical tasks.
+
+---
+
+## JD 3 - Power & Analog Layout Engineer (GlobalFoundries)
+
+Key responsibilities include:
+
+Perform manual and automated layouts of analog/power devices and circuits for semiconductor applications.
+
+Develop custom P-cell designs for various semiconductor devices and technologies.
+
+Collaborate cross-functionally with Tech-Development, Design, PDK, and Tapeout Teams.
+
+Document work progress through technical reports, presentations, and patent filings.
+
+Support tapeout engineering work with layout expertise and technical guidance.
+
+Utilize layout tools including DRC, PEX, LVS for design verification and sign-off.
+
+Maintain safe work practices and support Environmental, Health, Safety & Security requirements.
+
+Perform layout design using industry-standard EDA tools and methodologies.
+
+Contribute to design optimization and efficiency improvements in layout processes.
+
+Participate in multi-technology node designs and maintain consistent quality standards.
+
+---
+
+## JD 4 - Physical Design Engineer | ASIC Physical Design (PnR/STA) (Erbity)
+
+Key responsibilities include:
+
+Execute place-and-route operations on complex ASIC designs using Cadence or Synopsys tools.
+
+Perform static timing analysis (STA) and drive timing closure across multiple corners and operating conditions.
+
+Conduct floorplanning and placement optimization to meet design goals and constraints.
+
+Implement clock tree synthesis and optimize for power, area, and timing metrics.
+
+Verify designs using DRC, LVS, and antenna checks; resolve all physical verification violations.
+
+Perform sign-off activities including physical verification, timing closure, and design rule compliance.
+
+Collaborate with front-end design teams to understand design requirements and constraints.
+
+Optimize designs for power consumption, area utilization, and timing performance.
+
+Generate design reports and documentation for tapeout readiness.
+
+Support design iterations based on synthesis and verification feedback.
+
+---
+
+## JD 5 - Physical Design Engineer - Bangalore (Eridu)
+
+Key responsibilities include:
+
+Lead physical design implementation for ASIC and SoC designs from concept to tapeout.
+
+Develop floorplans and perform placement optimization for design performance and yield.
+
+Execute place-and-route using advanced EDA tools and methodologies.
+
+Perform comprehensive physical verification including DRC, LVS, and ERC checks.
+
+Drive static timing analysis and timing closure across all specified corners.
+
+Automate design flows and implement design-for-manufacturability (DFM) techniques.
+
+Collaborate with design teams to meet aggressive schedule and quality targets.
+
+Document design methodologies and contribute to process improvements.
+
+Support first silicon bringup and post-silicon validation activities.
+
+Mentor junior engineers and foster a culture of technical excellence.
+
+---
+
+## JD 6 - Physical Design Engineer (Altcognito Systems)
+
+Key responsibilities include:
+
+Perform end-to-end physical design implementation for digital and mixed-signal designs.
+
+Execute floorplanning and placement strategies to optimize for power and performance.
+
+Implement clock tree synthesis and optimize clock distribution networks.
+
+Conduct timing closure and sign-off across process, voltage, and temperature variations.
+
+Verify physical design using industry-standard verification tools and methodologies.
+
+Generate accurate timing and power analysis reports for design teams.
+
+Participate in design reviews and provide recommendations for optimization.
+
+Support design team in meeting project milestones and quality targets.
+
+Collaborate with cross-functional teams including logic design and verification.
+
+Identify and implement design improvements and process enhancements.
+
+---
+
+## JD 7 - Lead Lightning Protection & Grounding Design Engineer (LPES International)
+
+Key responsibilities include:
+
+Design lightning protection and grounding systems for various infrastructure applications.
+
+Develop technical specifications and engineering drawings for protection systems.
+
+Conduct site surveys and assessments for protection system design requirements.
+
+Collaborate with clients and design teams to finalize system specifications.
+
+Review designs for code compliance and safety standards.
+
+Provide technical guidance and mentoring to junior design engineers.
+
+Support project execution and coordinate with installation teams.
+
+Document design methodologies and create technical documentation.
+
+Participate in project reviews and design optimization discussions.
+
+Stay current with industry standards and best practices in protection system design.
+
+---
+
+## JD 8 - AutoCAD Expert (Weekday AI - YC W21)
+
+Key responsibilities include:
+
+Create, modify, and optimize detailed AutoCAD drawings for various project types.
+
+Collaborate with multidisciplinary teams to understand project requirements and deliver precise technical drawings.
+
+Interpret architectural and engineering sketches, notes, and specifications to produce accurate CAD drawings.
+
+Maintain version control and ensure all drawings adhere to project standards and quality benchmarks.
+
+Identify and resolve potential design conflicts or discrepancies efficiently.
+
+Participate in project reviews, offering constructive feedback and suggestions for improvement.
+
+Document processes and update relevant stakeholders through clear professional communication.
+
+Manage multiple drawing projects simultaneously and meet strict deadlines.
+
+Ensure drawings comply with industry standards and best practices.
+
+Support design team in achieving project objectives within established timelines.
+
+---
+
+## JD 9 - Physical Design Engineer - Entry Level (Crossing Hurdles)
+
+Key responsibilities include:
+
+Assist senior designers in physical design implementation and layout tasks.
+
+Learn and apply PnR tools and methodologies under guidance.
+
+Perform basic floorplanning and placement operations for assigned blocks.
+
+Execute routing and interconnect design for digital designs.
+
+Participate in timing analysis and help drive basic timing closure.
+
+Support physical verification activities including DRC and LVS checks.
+
+Document design work and maintain design records and version control.
+
+Collaborate with senior team members on design reviews and optimization.
+
+Gain expertise in design methodologies and industry best practices.
+
+Support tapeout activities and participate in design sign-off processes.
+
+---
+
+## JD 10 - Mid-Level Physical Design Engineer (Qualcomm)
+
+Key responsibilities include:
+
+Execute place-and-route for assigned design blocks using Cadence tools.
+
+Perform floorplanning and placement optimization to meet timing and area targets.
+
+Implement clock tree synthesis and optimize clock networks for power and skew.
+
+Conduct comprehensive timing analysis and drive timing closure.
+
+Verify physical designs and resolve DRC/LVS violations.
+
+Collaborate with logic design teams to refine design specifications.
+
+Generate design reports and present technical findings to stakeholders.
+
+Participate in design optimization activities to improve power and performance.
+
+Support cross-functional teams in meeting project schedules.
+
+Contribute to design process improvements and documentation.
+
+---
+
+## JD 11 - Physical Design Engineer (AMD)
+
+Key responsibilities include:
+
+Lead physical design activities for high-performance processor designs.
+
+Develop floorplans and perform placement strategies for complex SoCs.
+
+Execute place-and-route with focus on power, performance, and area optimization.
+
+Perform advanced static timing analysis across all operating modes and corners.
+
+Implement physical design optimizations including clock distribution and power distribution.
+
+Verify designs for manufacturability and reliability requirements.
+
+Collaborate with design and verification teams to resolve design issues.
+
+Document design methodologies and contribute to best practices.
+
+Support design iterations and refinements based on feedback.
+
+Participate in tapeout and post-silicon validation activities.
+
+---
+
+## JD 12 - Physical Design Engineer (NVIDIA)
+
+Key responsibilities include:
+
+Perform layout and routing for GPU design components and subsystems.
+
+Execute floorplanning for optimal resource utilization and timing performance.
+
+Implement advanced clock tree synthesis and distribution network design.
+
+Conduct sign-off level timing analysis across multiple corners and operating modes.
+
+Verify physical design using comprehensive DRC/LVS checks and antenna verification.
+
+Optimize designs for power efficiency and thermal performance.
+
+Collaborate with global teams across multiple time zones on design implementation.
+
+Participate in design reviews and provide technical recommendations.
+
+Document design flows and methodologies for team knowledge sharing.
+
+Support silicon bring-up and debug activities for design validation.
+
+---
+
+## JD 13 - Physical Design Engineer - Semiconductor (Renesas Electronics)
+
+Key responsibilities include:
+
+Execute place-and-route operations for embedded system designs.
+
+Perform floorplanning and placement to balance timing, power, and area requirements.
+
+Implement clock tree synthesis with focus on signal integrity and power optimization.
+
+Drive timing closure across process variations and operating conditions.
+
+Conduct comprehensive physical verification for design quality assurance.
+
+Support design team in meeting performance and power targets.
+
+Collaborate with multiple design teams on integrated subsystem designs.
+
+Generate accurate timing and power reports for design documentation.
+
+Participate in design optimization and process improvement initiatives.
+
+Support tapeout preparation and silicon validation activities.
+
+---
+
+## JD 14 - Physical Design Engineer - ASIC (Larsen & Toubro)
+
+Key responsibilities include:
+
+Lead physical implementation of ASIC designs from specification to tapeout.
+
+Perform sophisticated floorplanning and placement optimization.
+
+Execute place-and-route using advanced EDA tools and custom techniques.
+
+Drive timing closure and sign-off across all specified operating conditions.
+
+Implement DFM techniques and verify design manufacturability.
+
+Resolve complex timing and congestion issues through design optimization.
+
+Collaborate with design and verification teams on design refinements.
+
+Create comprehensive design documentation for tapeout packages.
+
+Mentor junior design engineers on physical design methodologies.
+
+Participate in design reviews and provide technical leadership.
+
+---
+
+## JD 15 - Physical Design Engineer (ACL Digital)
+
+Key responsibilities include:
+
+Execute place-and-route for assigned design modules using industry-standard tools.
+
+Perform timing analysis and optimize designs for performance and power.
+
+Implement physical verification and resolve design rule violations.
+
+Support floorplanning and placement activities for complex designs.
+
+Collaborate with design teams to understand design specifications and constraints.
+
+Maintain design documentation and version control systems.
+
+Participate in design reviews and contribute technical insights.
+
+Support design optimization activities and process improvements.
+
+Work collaboratively in a team environment on multi-project assignments.
+
+Develop expertise in physical design best practices and methodologies.
+
+---
+
+## JD 16 - Senior Physical Design Engineer (VLSI Design Company)
+
+Key responsibilities include:
+
+Own complete physical design flow for complex SoC designs.
+
+Develop and implement advanced design methodologies for area and power optimization.
+
+Execute sophisticated floorplanning with multi-level hierarchy and complex constraints.
+
+Implement advanced PnR techniques including incremental and full-flow approaches.
+
+Perform sign-off level timing analysis with advanced delay calculation methods.
+
+Drive physical verification with focus on DFM and yield optimization.
+
+Lead design team on complex technical challenges and optimization activities.
+
+Create reusable design methodology documentation and design guides.
+
+Mentor and develop junior team members through hands-on technical guidance.
+
+Drive innovation in physical design processes and tool automation.
+
+---
+
+## JD 17 - Physical Design Engineer - Power Domain (Broadcom)
+
+Key responsibilities include:
+
+Lead physical design of power domain implementation for multi-voltage designs.
+
+Perform power grid analysis and design optimization.
+
+Execute floorplanning for power distribution and management structures.
+
+Implement low-power design techniques including dynamic voltage/frequency scaling.
+
+Verify power integrity and thermal performance of designs.
+
+Collaborate with power and thermal teams on design constraints.
+
+Optimize designs for power efficiency while meeting timing requirements.
+
+Document power design methodologies and guidelines.
+
+Support design verification and validation activities.
+
+Participate in cross-functional design optimization initiatives.
+
+---
+
+## JD 18 - Physical Design Engineer - Analog (Microchip Technology)
+
+Key responsibilities include:
+
+Design and layout analog and mixed-signal circuit blocks.
+
+Perform custom layout of transistors and analog components.
+
+Optimize analog designs for noise, area, and power consumption.
+
+Conduct pre- and post-layout simulation to verify circuit performance.
+
+Collaborate with analog circuit designers on design implementation.
+
+Perform design rule compliance checking and physical verification.
+
+Create accurate layout artwork for tapeout.
+
+Document analog design methodologies and best practices.
+
+Support design iteration and optimization based on simulation results.
+
+Participate in design reviews and provide technical recommendations.
+
+---
+
+## JD 19 - Physical Design Engineer (Intel)
+
+Key responsibilities include:
+
+Lead physical design for high-performance Intel processor cores and subsystems.
+
+Execute sophisticated floorplanning for complex multi-core designs.
+
+Implement advanced place-and-route techniques for optimal power and performance.
+
+Perform sign-off timing analysis on designs with billions of transistors.
+
+Optimize designs across multiple process nodes and future technologies.
+
+Implement and verify design for manufacturability (DFM) methodologies.
+
+Collaborate with teams worldwide on integrated design implementation.
+
+Lead technical discussions and provide design guidance to peers.
+
+Document design methodologies and contribute to corporate design standards.
+
+Support silicon validation and post-silicon design debugging.
+
+---
+
+## JD 20 - Physical Design Engineer (MediaTek)
+
+Key responsibilities include:
+
+Execute place-and-route for mobile SoC designs with aggressive power and performance targets.
+
+Perform floorplanning optimization for complex multi-functional subsystems.
+
+Drive timing closure on designs with tight timing requirements.
+
+Implement low-power design techniques for mobile applications.
+
+Optimize thermal performance and power distribution.
+
+Verify design quality through comprehensive physical verification.
+
+Support design team in meeting market timeline and cost targets.
+
+Collaborate with design and verification teams on design iterations.
+
+Document design implementations and create reusable design templates.
+
+Participate in design optimization and manufacturing readiness activities.
+
+---
+
+## JD 21 - Physical Design Engineer - Memory IP (SK Hynix)
+
+Key responsibilities include:
+
+Lead physical design of memory IP blocks including SRAM, DRAM, and Flash.
+
+Execute place-and-route for high-density memory arrays.
+
+Optimize memory designs for density, power, and access time.
+
+Verify memory array designs and resolve DRC/LVS violations.
+
+Implement memory compiler and characterization methodologies.
+
+Support memory IP integration into larger SoC designs.
+
+Collaborate with memory technology teams on design optimization.
+
+Document memory design methodologies and guidelines.
+
+Participate in memory testing and yield optimization activities.
+
+Support memory IP tapeout and validation processes.
+
+---
+
+## JD 22 - Physical Design Engineer (Apple)
+
+Key responsibilities include:
+
+Lead physical design of custom silicon components for Apple products.
+
+Execute sophisticated floorplanning and placement strategies.
+
+Implement place-and-route with extreme focus on power optimization.
+
+Drive timing closure on designs with aggressive power budgets.
+
+Optimize designs for reliability and long-term performance.
+
+Verify designs meet all manufacturing and quality requirements.
+
+Collaborate with hardware teams on design integration and validation.
+
+Mentor team members on physical design best practices and innovations.
+
+Document design methodologies and create design automation tools.
+
+Participate in design optimization and manufacturing yield improvements.
+
+---
+
+## JD 23 - Physical Design Engineer - Timing (Arm Holdings)
+
+Key responsibilities include:
+
+Lead static timing analysis (STA) for complex ARM processor IP.
+
+Execute STA sign-off across multiple process nodes and operating modes.
+
+Optimize designs for timing closure and power efficiency.
+
+Develop advanced timing closure techniques and automation.
+
+Collaborate with design teams on timing-critical optimizations.
+
+Implement cross-corner timing verification methodologies.
+
+Create timing analysis reports and documentation.
+
+Mentor junior engineers on timing analysis best practices.
+
+Support design validation and silicon debugging activities.
+
+Drive improvements in timing analysis methodologies and tools.
+
+---
+
+## JD 24 - Physical Design Engineer - Verification (Cadence Design)
+
+Key responsibilities include:
+
+Lead physical design verification activities for complex designs.
+
+Execute comprehensive DRC, LVS, and antenna checks on large designs.
+
+Develop physical verification flows and automation scripts.
+
+Verify manufacturability and resolve design rule violations.
+
+Collaborate with design and manufacturing teams on verification strategies.
+
+Create physical verification guidelines and documentation.
+
+Support design tool selection and evaluation.
+
+Mentor junior verification engineers on best practices.
+
+Drive improvements in verification methodology and automation.
+
+Participate in design quality assurance activities.
+
+---
+
+## JD 25 - Physical Design Engineer (Synopsys)
+
+Key responsibilities include:
+
+Execute place-and-route using Synopsys ICC or ICC2 tools.
+
+Perform sophisticated floorplanning and placement optimization.
+
+Implement advanced PnR techniques for design optimization.
+
+Drive timing closure and sign-off on complex designs.
+
+Optimize power distribution and thermal performance.
+
+Verify design manufacturability and quality.
+
+Support design team in achieving project goals and schedules.
+
+Document design flows and create design process guidelines.
+
+Contribute to tool evaluation and process improvements.
+
+Participate in customer design reviews and technical presentations.
+
+---
+
+## JD 26 - Physical Design Engineer - Power Distribution (TSMC)
+
+Key responsibilities include:
+
+Lead power grid design and optimization for advanced node designs.
+
+Perform power analysis and verification of power distribution networks.
+
+Execute sophisticated power grid placement and routing.
+
+Optimize power delivery for multi-voltage designs.
+
+Implement low-power design techniques and verification.
+
+Collaborate with foundry and design teams on power optimization.
+
+Document power design methodologies and best practices.
+
+Support design power sign-off and validation.
+
+Participate in design optimization and yield improvement initiatives.
+
+Drive advancements in power-aware design methodologies.
+
+---
+
+## JD 27 - Physical Design Engineer - Clock Distribution (Samsung)
+
+Key responsibilities include:
+
+Lead clock tree synthesis and optimization for complex designs.
+
+Execute clock network design with focus on timing and power.
+
+Optimize clock distribution for minimal skew and power consumption.
+
+Implement advanced CTS techniques and automation.
+
+Verify clock design quality through comprehensive analysis.
+
+Collaborate with design teams on clock architecture decisions.
+
+Create clock design guidelines and documentation.
+
+Support design sign-off and silicon validation.
+
+Mentor team members on clock design methodologies.
+
+Drive innovations in clock distribution design.
+
+---
+
+## JD 28 - Physical Design Engineer - DFM (GlobalFoundries)
+
+Key responsibilities include:
+
+Lead design-for-manufacturability (DFM) implementation and optimization.
+
+Develop DFM techniques specific to manufacturing process nodes.
+
+Execute DFM analysis and optimization on design implementations.
+
+Collaborate with manufacturing and design teams on manufacturability.
+
+Verify design manufacturing readiness and quality.
+
+Create DFM design rules and guidelines.
+
+Support design compliance with foundry design rules.
+
+Participate in design yield optimization initiatives.
+
+Document DFM methodologies and best practices.
+
+Drive DFM process improvements and automation.
+
+---
+
+## JD 29 - Physical Design Engineer - Routing (Mentor Graphics)
+
+Key responsibilities include:
+
+Lead detailed routing and interconnect design for complex designs.
+
+Execute advanced routing techniques and optimization.
+
+Perform detailed routing with focus on signal integrity and power.
+
+Optimize routing for minimizing capacitance and resistance effects.
+
+Implement custom routing for critical paths and signals.
+
+Verify routing quality and design rule compliance.
+
+Collaborate with design team on routing challenges and solutions.
+
+Document routing methodologies and design guidelines.
+
+Support design sign-off and tapeout activities.
+
+Participate in routing tool evaluation and process improvements.
+
+---
+
+## JD 30 - Physical Design Engineer (Applied Materials)
+
+Key responsibilities include:
+
+Perform physical design implementation using advanced EDA tools.
+
+Execute floorplanning and placement for high-performance designs.
+
+Implement place-and-route with focus on manufacturability.
+
+Drive timing closure and power optimization.
+
+Verify physical design quality through comprehensive checking.
+
+Support design team in meeting project schedule and quality targets.
+
+Collaborate with cross-functional teams on design optimization.
+
+Document design methodologies and create design guidelines.
+
+Participate in design reviews and technical discussions.
+
+Support design validation and silicon bring-up activities.
+
+---
+
+## JD 31 - Junior Physical Design Engineer (Startup A)
+
+Key responsibilities include:
+
+Support senior engineers in physical design layout tasks.
+
+Learn industry-standard EDA tools and design methodologies under guidance.
+
+Perform basic placement and routing operations for assigned blocks.
+
+Execute design rule checking and assist in verification tasks.
+
+Participate in design reviews and learn from experienced engineers.
+
+Document design work and maintain version control systems.
+
+Support design team in completing layout and design tasks.
+
+Develop foundational expertise in physical design principles.
+
+Collaborate with peers on design implementations.
+
+Contribute to design process improvements and documentation.
+
+---
+
+## JD 32 - Graduate Trainee - Physical Design (Startup B)
+
+Key responsibilities include:
+
+Learn fundamental physical design concepts and methodologies through formal training.
+
+Assist in performing basic layout and routing tasks under supervision.
+
+Gain hands-on experience with industry-standard EDA tools.
+
+Execute simple design implementations for training purposes.
+
+Participate in design reviews to learn from experienced engineers.
+
+Support design team in completing assigned tasks.
+
+Document learning and contribute to training materials.
+
+Develop expertise in design best practices and standards.
+
+Collaborate with team on training projects and assignments.
+
+Build professional skills in design communication and teamwork.
+
+---
+
+## JD 33 - Physical Design Engineer - Associate Level (Tech Company C)
+
+Key responsibilities include:
+
+Execute place-and-route under senior engineer guidance and supervision.
+
+Perform basic floorplanning and placement optimization.
+
+Support timing analysis and help in timing closure activities.
+
+Participate in physical verification and design rule checking.
+
+Collaborate with senior designers on design implementations.
+
+Document design work and maintain accurate design records.
+
+Attend design reviews and learn from feedback and discussions.
+
+Support design team in completing assigned design blocks.
+
+Develop expertise in industry-standard EDA tools and flows.
+
+Contribute to design process improvements based on learning.
+
+---
+
+## JD 34 - Physical Design Engineer - Intermediate Level (Tech Company D)
+
+Key responsibilities include:
+
+Lead place-and-route activities for assigned design modules.
+
+Perform floorplanning and placement with minimal supervision.
+
+Drive timing analysis and timing closure on assigned blocks.
+
+Execute comprehensive physical verification activities.
+
+Collaborate with design teams to understand requirements and constraints.
+
+Generate design reports and technical documentation.
+
+Participate in design optimization to improve power and performance.
+
+Mentor junior engineers on design methodologies.
+
+Support design team in meeting project deadlines.
+
+Contribute ideas for design process improvements.
+
+---
+
+## JD 35 - Physical Design Engineer - Senior/Lead Level (Enterprise)
+
+Key responsibilities include:
+
+Lead complete physical design flow for complex enterprise designs.
+
+Develop and implement advanced design methodologies and strategies.
+
+Execute sophisticated floorplanning with multi-hierarchy approach.
+
+Drive place-and-route with extreme focus on optimization.
+
+Perform sign-off level timing analysis and verification.
+
+Lead design team through complex technical challenges.
+
+Mentor and develop junior engineers into strong contributors.
+
+Create reusable design flows and methodology documentation.
+
+Drive design innovation and process automation.
+
+Represent design team in high-level technical discussions and decisions.
+
+---
+
+## JD 36 - Physical Design Engineer - Mixed-Signal (Analog Company A)
+
+Key responsibilities include:
+
+Perform layout of analog and mixed-signal circuit blocks.
+
+Execute custom transistor-level layout for analog circuits.
+
+Optimize analog designs for noise, offset, and power.
+
+Conduct pre- and post-layout simulation and characterization.
+
+Collaborate with circuit designers on layout optimization.
+
+Perform physical verification and design rule compliance checking.
+
+Create accurate layout artwork for various process nodes.
+
+Document analog design methodologies and guidelines.
+
+Support design iteration and performance optimization.
+
+Participate in design reviews and technical discussions.
+
+---
+
+## JD 37 - Physical Design Engineer - RF (RF Company A)
+
+Key responsibilities include:
+
+Design and layout RF and microwave circuit components.
+
+Perform careful layout with attention to signal integrity and grounding.
+
+Optimize RF designs for impedance matching and loss minimization.
+
+Conduct electromagnetic simulations and layout verification.
+
+Collaborate with RF engineers on design optimization.
+
+Execute custom layout techniques for RF-specific requirements.
+
+Create RF design guidelines and best practices documentation.
+
+Support design validation and measurement activities.
+
+Participate in design optimization for performance and yield.
+
+Drive improvements in RF layout methodologies.
+
+---
+
+## JD 38 - Physical Design Engineer - High-Speed (High-Speed Company A)
+
+Key responsibilities include:
+
+Lead physical design of high-speed digital interfaces.
+
+Perform sophisticated floorplanning for optimal signal integrity.
+
+Execute place-and-route with focus on transmission line effects.
+
+Optimize designs for noise, crosstalk, and timing.
+
+Implement advanced signal integrity analysis and verification.
+
+Design power and ground distribution for noise management.
+
+Collaborate with signal integrity engineers on design optimization.
+
+Document high-speed design methodologies and guidelines.
+
+Support design validation and characterization.
+
+Drive innovations in high-speed design techniques.
+
+---
+
+## JD 39 - Physical Design Engineer - IoT (IoT Company A)
+
+Key responsibilities include:
+
+Lead physical design of ultra-low-power IoT designs.
+
+Perform sophisticated power optimization and analysis.
+
+Execute place-and-route with extreme focus on power efficiency.
+
+Implement low-power design techniques and methodologies.
+
+Optimize designs for battery-operated applications.
+
+Collaborate with system teams on power requirements.
+
+Create low-power design guidelines and documentation.
+
+Support design validation and power characterization.
+
+Participate in design optimization for extended battery life.
+
+Drive innovations in low-power design methodologies.
+
+---
+
+## JD 40 - Physical Design Engineer - 5G (5G Company A)
+
+Key responsibilities include:
+
+Lead physical design of 5G transceiver and modem designs.
+
+Execute sophisticated floorplanning for RF and digital integration.
+
+Perform place-and-route with attention to EMI and signal integrity.
+
+Optimize designs for power efficiency in mobile applications.
+
+Implement advanced verification techniques for complex designs.
+
+Collaborate with RF and digital teams on design integration.
+
+Create 5G-specific design guidelines and methodologies.
+
+Support design validation and performance characterization.
+
+Participate in design optimization for network performance.
+
+Drive innovations in 5G physical design approaches.
+
+---
+
+## JD 41 - Physical Design Engineer - AI/ML Accelerator (AI Company A)
+
+Key responsibilities include:
+
+Lead physical design of AI and ML accelerator chips.
+
+Execute sophisticated floorplanning for computation-heavy designs.
+
+Perform place-and-route optimized for high throughput.
+
+Implement advanced memory and datapath designs.
+
+Optimize designs for compute performance and energy efficiency.
+
+Drive timing closure on designs with strict performance requirements.
+
+Collaborate with architecture teams on physical feasibility analysis.
+
+Create AI accelerator-specific design guidelines.
+
+Support design validation and performance characterization.
+
+Drive innovations in accelerator architecture implementation.
+
+---
+
+## JD 42 - Physical Design Engineer - Automotive (Automotive Company A)
+
+Key responsibilities include:
+
+Lead physical design of automotive microcontroller and SoC designs.
+
+Execute floorplanning with focus on reliability and temperature robustness.
+
+Perform place-and-route considering automotive operating conditions.
+
+Implement functional safety and reliability verification techniques.
+
+Optimize designs for automotive power and thermal requirements.
+
+Collaborate with automotive system teams on design specifications.
+
+Create automotive-compliant design guidelines and documentation.
+
+Support design validation for automotive standards compliance.
+
+Participate in design optimization for automotive reliability.
+
+Drive innovations in automotive physical design methodologies.
+
+---
+
+## JD 43 - Physical Design Engineer - Healthcare (Healthcare Company A)
+
+Key responsibilities include:
+
+Lead physical design of medical device and healthcare application chips.
+
+Execute floorplanning with focus on reliability and safety.
+
+Perform place-and-route considering medical device requirements.
+
+Implement design verification for medical application standards.
+
+Optimize designs for power efficiency in portable medical devices.
+
+Collaborate with medical device teams on design constraints.
+
+Create healthcare-specific design guidelines and methodologies.
+
+Support design validation for medical device compliance.
+
+Participate in design optimization for patient safety and reliability.
+
+Drive innovations in medical device physical design.
+
+---
+
+## JD 44 - Physical Design Engineer - Aerospace (Aerospace Company A)
+
+Key responsibilities include:
+
+Lead physical design of aerospace and satellite systems.
+
+Execute floorplanning with focus on radiation hardness and reliability.
+
+Perform place-and-route considering harsh aerospace environments.
+
+Implement radiation-hardened design techniques and verification.
+
+Optimize designs for extreme temperature and vibration conditions.
+
+Collaborate with aerospace teams on design specifications.
+
+Create aerospace-compliant design guidelines and documentation.
+
+Support design validation for aerospace standards.
+
+Participate in design optimization for space reliability.
+
+Drive innovations in aerospace physical design methodologies.
+
+---
+
+## JD 45 - Physical Design Engineer - Multi-Die (Multi-Die Company A)
+
+Key responsibilities include:
+
+Lead physical design of chiplet and multi-die system designs.
+
+Execute sophisticated floorplanning for chiplet integration.
+
+Perform place-and-route considering die-to-die interfaces.
+
+Implement interposer and interconnect design optimization.
+
+Optimize thermal and electrical performance across multiple dies.
+
+Collaborate with packaging teams on design specifications.
+
+Create multi-die design guidelines and methodologies.
+
+Support design validation and integration testing.
+
+Participate in design optimization for chiplet performance.
+
+Drive innovations in multi-die and chiplet design.
+
+---
+
+## JD 46 - Physical Design Engineer - FPGA (FPGA Company A)
+
+Key responsibilities include:
+
+Lead physical design of FPGA fabric and configurable logic.
+
+Execute floorplanning for maximal routing flexibility.
+
+Perform place-and-route with focus on routable design space.
+
+Implement advanced placement algorithms and optimization.
+
+Optimize designs for configurability and performance.
+
+Collaborate with FPGA architecture teams on feasibility.
+
+Create FPGA-specific design guidelines and methodologies.
+
+Support design validation and routing characterization.
+
+Participate in design optimization for configurability and speed.
+
+Drive innovations in FPGA physical design approaches.
+
+---
+
+## JD 47 - Physical Design Engineer - HPC (HPC Company A)
+
+Key responsibilities include:
+
+Lead physical design of high-performance computing systems.
+
+Execute sophisticated floorplanning for large-scale designs.
+
+Perform place-and-route optimized for computational performance.
+
+Implement advanced interconnect and memory designs.
+
+Optimize designs for high throughput and low latency.
+
+Collaborate with system architecture teams on implementation.
+
+Create HPC-specific design guidelines and methodologies.
+
+Support design validation and performance characterization.
+
+Participate in design optimization for computing performance.
+
+Drive innovations in HPC physical design methodologies.
+
+---
+
+## JD 48 - Physical Design Engineer - Display (Display Company A)
+
+Key responsibilities include:
+
+Lead physical design of display driver and controller chips.
+
+Execute floorplanning with focus on sequential logic coordination.
+
+Perform place-and-route considering timing-critical display signals.
+
+Implement advanced timing closure techniques.
+
+Optimize designs for display quality and responsiveness.
+
+Collaborate with display system teams on design specifications.
+
+Create display-specific design guidelines and methodologies.
+
+Support design validation and display characterization.
+
+Participate in design optimization for image quality.
+
+Drive innovations in display physical design approaches.
+
+---
+
+## JD 49 - Physical Design Engineer - Network (Network Company A)
+
+Key responsibilities include:
+
+Lead physical design of network processor and switch designs.
+
+Execute sophisticated floorplanning for packet processing pipelines.
+
+Perform place-and-route optimized for network throughput.
+
+Implement advanced memory and datapath optimization.
+
+Optimize designs for network performance and power efficiency.
+
+Collaborate with network architecture teams on design feasibility.
+
+Create network-specific design guidelines and methodologies.
+
+Support design validation and packet processing characterization.
+
+Participate in design optimization for network performance.
+
+Drive innovations in network physical design approaches.
+
+---
+
+## JD 50 - Physical Design Engineer - Security (Security Company A)
+
+Key responsibilities include:
+
+Lead physical design of security processor and cryptography accelerator chips.
+
+Execute floorplanning with focus on security and tampering prevention.
+
+Perform place-and-route considering security requirements.
+
+Implement secure design layout practices and techniques.
+
+Optimize designs for cryptographic performance.
+
+Collaborate with security teams on design specifications.
+
+Create security-focused design guidelines and methodologies.
+
+Support design validation for security properties.
+
+Participate in design optimization for security performance.
+
+Drive innovations in secure hardware design methodologies.
+
+---
+
+## JD 51 - Physical Design Engineer - Testability (Test Company A)
+
+Key responsibilities include:
+
+Lead physical design with focus on testability and DFT integration.
+
+Execute floorplanning considering test infrastructure requirements.
+
+Perform place-and-route with DFT structures integration.
+
+Implement scan chain routing and test point placement.
+
+Optimize designs for test coverage and access.
+
+Collaborate with DFT and test teams on design integration.
+
+Create DFT-specific design guidelines and methodologies.
+
+Support design validation and test characterization.
+
+Participate in design optimization for testability.
+
+Drive innovations in testable design methodologies.
+
+---
+
+## JD 52 - Physical Design Engineer - Power Delivery (Power Company A)
+
+Key responsibilities include:
+
+Lead power delivery network (PDN) design and optimization.
+
+Execute sophisticated power grid analysis and placement.
+
+Perform PDN verification and power integrity checking.
+
+Optimize power distribution for multi-voltage and multi-frequency designs.
+
+Implement voltage regulator module (VRM) integration.
+
+Collaborate with power and thermal teams on specifications.
+
+Create PDN design guidelines and best practices.
+
+Support power sign-off and validation activities.
+
+Participate in design optimization for power efficiency.
+
+Drive innovations in power delivery methodologies.
+
+---
+
+## JD 53 - Physical Design Engineer - Thermal (Thermal Company A)
+
+Key responsibilities include:
+
+Lead thermal design and management for high-power designs.
+
+Perform sophisticated thermal analysis and optimization.
+
+Execute floorplanning with focus on heat dissipation.
+
+Implement thermal monitoring and management circuits.
+
+Optimize designs for thermal performance and reliability.
+
+Collaborate with thermal and packaging teams on design.
+
+Create thermal design guidelines and methodologies.
+
+Support thermal validation and characterization.
+
+Participate in design optimization for thermal performance.
+
+Drive innovations in thermal management design.
+
+---
+
+## JD 54 - Physical Design Engineer - Reliability (Reliability Company A)
+
+Key responsibilities include:
+
+Lead design-for-reliability (DFR) implementation in physical design.
+
+Execute floorplanning with focus on reliability metrics.
+
+Perform reliability analysis and optimization.
+
+Implement reliability design techniques and verification.
+
+Optimize designs for long-term reliability and robustness.
+
+Collaborate with reliability teams on design specifications.
+
+Create DFR design guidelines and methodologies.
+
+Support reliability validation and characterization.
+
+Participate in design optimization for reliability.
+
+Drive innovations in reliable design methodologies.
+
+---
+
+## JD 55 - Physical Design Engineer - Cost Optimization (Cost Company A)
+
+Key responsibilities include:
+
+Lead design-for-cost (DFC) initiatives in physical design.
+
+Execute floorplanning with focus on area and yield optimization.
+
+Perform cost analysis and process optimization.
+
+Implement cost-effective design techniques and methodologies.
+
+Optimize designs for manufacturability and yield.
+
+Collaborate with manufacturing and business teams on cost targets.
+
+Create DFC design guidelines and documentation.
+
+Support cost reduction initiatives and target achievement.
+
+Participate in design optimization for cost efficiency.
+
+Drive innovations in cost-aware design methodologies.
+
+---
+
+## JD 56 - Physical Design Engineer - Embedded Design (Embedded Company A)
+
+Key responsibilities include:
+
+Lead physical design of embedded systems and microcontroller designs.
+
+Execute floorplanning for resource-constrained designs.
+
+Perform place-and-route optimized for area and power.
+
+Implement advanced design techniques for small form factor.
+
+Optimize designs for embedded system requirements.
+
+Collaborate with embedded systems teams on design specifications.
+
+Create embedded system-specific design guidelines.
+
+Support design validation for embedded applications.
+
+Participate in design optimization for embedded performance.
+
+Drive innovations in embedded physical design approaches.
+
+---
+
+## JD 57 - Physical Design Engineer - Machine Learning (ML Company A)
+
+Key responsibilities include:
+
+Lead physical design of machine learning accelerator engines.
+
+Execute sophisticated floorplanning for neural network hardware.
+
+Perform place-and-route optimized for ML inference performance.
+
+Implement advanced datapath and memory designs for ML.
+
+Optimize designs for ML model training and inference.
+
+Collaborate with ML architecture teams on implementation feasibility.
+
+Create ML-specific design guidelines and methodologies.
+
+Support design validation and ML performance characterization.
+
+Participate in design optimization for ML throughput.
+
+Drive innovations in ML hardware physical design.
+
+---
+
+## JD 58 - Physical Design Engineer - Design Automation (Automation Company A)
+
+Key responsibilities include:
+
+Lead development of physical design automation tools and flows.
+
+Execute methodology development for design automation.
+
+Perform tool evaluation and integration.
+
+Implement design automation scripts and frameworks.
+
+Optimize design flows for efficiency and quality.
+
+Collaborate with EDA tool teams on tool enhancement.
+
+Create design automation guidelines and documentation.
+
+Support design team adoption of automated flows.
+
+Participate in design automation optimization.
+
+Drive innovations in physical design automation.
+
+---
+
+## JD 59 - Physical Design Engineer - Methodology (Methodology Company A)
+
+Key responsibilities include:
+
+Lead development of physical design methodologies and best practices.
+
+Execute methodology definition and standardization.
+
+Perform methodology evaluation and optimization.
+
+Implement design process improvements across teams.
+
+Optimize design methodologies for efficiency and quality.
+
+Collaborate with multiple teams on methodology adoption.
+
+Create comprehensive methodology documentation and guidelines.
+
+Support team training on design methodologies.
+
+Participate in continuous methodology improvement.
+
+Drive innovations in physical design methodologies and processes.
+
+---
+
+## JD 60 - Principal Physical Design Engineer (Principal Company A)
+
+Key responsibilities include:
+
+Provide strategic leadership and vision for physical design across organization.
+
+Develop and evangelize advanced physical design methodologies.
+
+Execute technical strategy for design implementation and innovation.
+
+Perform high-level design consultation and technical mentoring.
+
+Implement cutting-edge design techniques and approaches.
+
+Optimize organization-wide design processes and efficiency.
+
+Collaborate with senior leadership on design roadmap and strategy.
+
+Create reusable design frameworks and design automation.
+
+Support design community through publications and presentations.
+
+Drive strategic innovations in physical design and semiconductor implementation.
+
+---
